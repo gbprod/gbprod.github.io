@@ -1,10 +1,7 @@
-/**
- * Master styling
- */
 body {
-    font-family: "Roboto Condensed", Arial, sans-serif;
+    font-family: "PT Serif", "Droid Serif", Arial, sans-serif;
     background-color: #fff;
-    font-size: 16px;
+    font-size: 14pt;
     line-height: 1.5em;
     color: #666;
     font-weight: 300;
@@ -53,30 +50,20 @@ h4 {
 }
 
 a, a:link, a:active {
-    text-decoration: underline;
-    color: #8C8C8C;
+    text-decoration: none;
+    color: #268bd2;
 }
 
 a:hover {
-    color: #B3B3B3;
+    color: #268bd2;
     text-decoration: underline;
 }
 
-/**
- * /////////////////
- * Container element
- * /////////////////
- */
 div#container {
     width: 700px;
     margin: auto;
 }
 
-/**
- * //////////////////////////////////
- * Right aka content column formatting
- * //////////////////////////////////
- */
 div.right {
     width: 500px;
     float: left;
@@ -110,7 +97,7 @@ footer {
     margin-bottom: 3em;
     padding-top: 10px;
     color: #C2C2C2;
-    font-size: 1em;
+    font-size: .75em;
     bottom: 0;
     padding-bottom: 10px;
 }
@@ -144,6 +131,16 @@ div.profile {
     margin-top: 25px;
     font-size: 1em;
     color: #666;
+}
+
+div.profile a, 
+div.profile a:link, 
+div.profile a:active {
+    color: #8C8C8C;
+}
+
+div.profile a:hover {
+    color: #B3B3B3;
 }
 
 div.profile strong {
