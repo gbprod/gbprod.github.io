@@ -1,0 +1,41 @@
+title: GBProd
+author: Gilles Roustan
+email: contact@gb-prod.fr
+description: >
+  Blog technique de Gilles Roustan, artisan développeur.
+keywords: Gilles Roustan, Développeur, Symfony2, PHP, MySQL, HTML, CSS, CQRS, DDD, RabbitMq, Domain driven design, agile, scrum
+baseurl: ""
+url: "https://gb-prod.fr"
+twitter_username: GillesRoustan
+github_username:  gbprod
+about: >
+      Artisan développeur Web
+markdown: kramdown
+github: https://github.com/gbprod
+urls:
+    - text: Blog
+      url: /
+    - text: A propos de moi
+      url: /about/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/GillesRoustan"
+    - icon: fa-github
+      link: "https://github.com/gbprod"
+    - icon: fa-slideshare
+      link: "http://fr.slideshare.net/gbprod"
+    - icon: fa-envelope
+      link: "mailto:contact@gb-prod.fr"
+    - icon: fa-rss
+      link: "feed.xml"
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+default_locale: "fr"

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div id="home">
+    <h1>Blog posts</h1>
+    <hr />
+    <dl class="posts">
+    {% for post in site.posts %}
+      <dt><a href="{{ post.url }}">{{ post.title }}</a> <i><span class="time">{{ post.date | date: "%d/%m/%Y" }}</span></i></dt>
+      {% if post.description %}
+        <dd>{{ post.description }}</dd>
+      {% endif %}
+    {% endfor %}
+    </dl>
+</div><!-- end #home -->
