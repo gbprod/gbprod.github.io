@@ -28,7 +28,7 @@ social:
     - icon: fa-envelope
       link: "mailto:contact@gb-prod.fr"
     - icon: fa-rss
-      link: "feed.xml"
+      link: "/feed.xml"
 
 paginate: 20
 per_page: 20
