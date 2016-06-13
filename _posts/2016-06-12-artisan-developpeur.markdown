@@ -283,7 +283,7 @@ C'&eacute;tait un vieil immeuble de 5-6 &eacute;tages dans le centre de Nîmes. 
 
 Lors de l'appel d'offre, personne ne voulait le faire. Trop dangereux, risqu&eacute;, trop compl&egrave;xe. Mon p&egrave;re a finalement accept&eacute; de le faire. Pendant ce chantier, je me souviens de 2 choses : son stress et de l'&eacute;tat de transition du sous-sol.
 
-Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute; de compenser en posant des [&eacute;tais](etais) et il y avait tellement que l'on pouvait &agrave; peine se d&eacute;placer. On &eacute;tait oblig&eacute; de se faufiler entre les &eacute;tais pour aller casser ce pilier. Oui, refondre la structure d'un b&acirc;timent, c'est compliqu&eacute;. C'est comme modifier toute une couche d'une application, la structure de base, passer d'une UI desktop en web, passer d'une base SQL &acute; NoSQL, &ccedil;a pique.
+Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute; de compenser en posant des &eacute;tais et il y en avait tellement que l'on pouvait &agrave; peine se d&eacute;placer. On &eacute;tait oblig&eacute; de se faufiler entre les &eacute;tais pour aller casser ce pilier. Oui, refondre la structure d'un b&acirc;timent, c'est compliqu&eacute;. C'est comme modifier toute une couche d'une application, la structure de base, passer d'une UI desktop en web, passer d'une base SQL &acute; NoSQL, &ccedil;a pique.
 
 ![Etais](/static/img/artisan/etais.jpg)
 
