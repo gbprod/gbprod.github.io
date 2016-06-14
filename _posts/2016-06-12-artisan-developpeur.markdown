@@ -30,7 +30,7 @@ J'ai trouv&eacute; &ccedil;a sympa comme titre : artisan d&eacute;veloppeur !
 Un contraste entre du moderne et du traditionnel.
 Et moi comme un mouton, j'ai trouv&eacute; &ccedil;a cool et je me suis d&eacute;p&ecirc;ch&eacute; de modifier mon profil twitter.
 
-Je trouvais &ccedil;a d'autant plus cool que je suis issue d'une famille d'artisans : mon p&egrave;re artisan ma&ccedil;on, mon grand-p&egrave;re artisan ma&ccedil;on et artiste, mon arri&egrave;re-grand-p&egrave;re pl&acirc;trier...
+Je trouvais &ccedil;a d'autant plus cool que je suis issu d'une famille d'artisans : mon p&egrave;re artisan ma&ccedil;on, mon grand-p&egrave;re artisan ma&ccedil;on et artiste, mon arri&egrave;re-grand-p&egrave;re pl&acirc;trier...
 
 Un jour, ma femme a regard&eacute; mon twitter. Et bien sûr, elle m'a demand&eacute; pourquoi je mettais ce titre, quel est le rapport entre mon m&eacute;tier et les artisans ? Entre un ma&ccedil;on, un &eacute;lectricien, un fa&ccedil;adier et moi ?
 
@@ -49,7 +49,7 @@ En passant chez mon grand-p&egrave;re, je suis un jour tomb&eacute; par hasard s
 
 ![Le savoir faire... en plus...](/static/img/artisan/savoir-faire.jpg)
 
-C'est un ancien document qu'il donnait lors qu'on lui demandait ses r&eacute;f&eacute;rences ou ses comp&eacute;tences.
+C'est un ancien document qu'il donnait lorsqu'on lui demandait ses r&eacute;f&eacute;rences ou ses comp&eacute;tences.
 Comment pr&eacute;sente-t-il &ccedil;a ? Des photos de chantiers, en expliquant ce qu'il a fait !  
 J'adore. Pourquoi j'adore ? Parce qu'on devrait tous faire &ccedil;a ! Surtout nous, les d&eacute;veloppeurs.
 
@@ -109,13 +109,13 @@ Si pour mon grand-p&egrave;re la derni&egrave;re pierre est aussi facile &agrave
 ## A propos de la simplicit&eacute;
 
 J'ai r&eacute;cemment travaill&eacute; sur un projet de synchronisation entre une base de donn&eacute;es et une API rest.
-Le chef de projet me soutenait qu'il n'y avait rien &agrave; faire, que &ccedil;a prendrait 2 jours au maximum... Un chef de projet quoi... Bien sûr tout &ccedil;a en .Net, une technologie que je ne maîtrisais assez peu, sur une base de donn&eacute;es inconnue et bien sûr pas tr&egrave;s propre, avec aucunes contraintes d'int&eacute;grit&eacute;, des donn&eacute;es dupliqu&eacute;es...
+Le chef de projet me soutenait qu'il n'y avait rien &agrave; faire, que &ccedil;a prendrait 2 jours au maximum... Un chef de projet quoi... Bien sûr tout &ccedil;a en .Net, une technologie que je maîtrisais assez peu, sur une base de donn&eacute;es inconnue et bien sûr pas tr&egrave;s propre, avec aucune contrainte d'int&eacute;grit&eacute;, des donn&eacute;es dupliqu&eacute;es...
 
 Bref, une belle merde...
 
 5 jours plus tard, je rends le projet fini et fonctionnel. Je montre le code chef de projet. Sa r&eacute;action m'a vraiment surpris: il m'a dit *"Et ben tu vois, c'&eacute;tait simple, ton code est super simple, y'avais pas grand choses &agrave; faire finalement"*.
 
-J'ai dis *"Merci"*.
+J'ai dit *"Merci"*.
 
 Parce que j'ai repens&eacute; &agrave; mon grand p&egrave;re, si mon code a l'air simple, c'est qu'il y a du travail derri&egrave;re.
 C'est le savoir faire du d&eacute;veloppeur qui rend les choses simples !
@@ -138,7 +138,7 @@ if (Configuration.LOG_LEVEL == "dev") {
 Et &ccedil;a, plusieurs fois par classe, plusieurs fois m&ecirc;me par fonction !  
 
 Pourquoi c'est moche ?  
-Parce qu'il n'a pas respect&eacute; les pattern ?  
+Parce qu'il n'a pas respect&eacute; les patterns ?  
 Peut-&ecirc;tre parce qu'il n'avait pas de mentor ?  
 Peut-&ecirc;tre qu'il n'a pas appris &agrave; le faire ?  
 Peut-&ecirc;tre qu'il ne s'&eacute;tait pas encore plant&eacute; en le faisant ?  
@@ -149,7 +149,7 @@ Quand je travaille &agrave; l'am&eacute;lioration d'une classe, d'un projet, je 
 J'essaie au maximum de garder &ccedil;a en t&ecirc;te. Si une fonction, une classe me paraît complexe, je me demande toujours : qu'est-ce que je peux enlever ?
 
 Je dis d'ailleurs souvent que le code *me paraît complexe*. Dans le code, beaucoup de choses sont du ressenti, du sentiment. A mon sens, le meilleur indicateur d'un code mal &eacute;crit, c'est mes tripes.  
-&Ccedil;a se sent quand un code est mal &eacute;crit, c'est pour cela qu'en Clean code qu'on parle de [code smells](https://blog.codinghorror.com/code-smells/), d'odeurs de code. Si je vois un singleton, &ccedil;a pue, je sens que quelque-chose ne va pas, comme quand mon grand-p&egrave;re voit un *coup de sabre*.
+&Ccedil;a se sent quand un code est mal &eacute;crit, c'est pour cela qu'en Clean code on parle de [code smells](https://blog.codinghorror.com/code-smells/), d'odeurs de code. Si je vois un singleton, &ccedil;a pue, je sens que quelque chose ne va pas, comme quand mon grand-p&egrave;re voit un *coup de sabre*.
 
 ![Coup de sabre](/static/img/artisan/coup-de-sabre.jpg)
 
@@ -211,22 +211,22 @@ Je me suis rappel&eacute; d'un chantier auquel j'ai particip&eacute; il y a long
 
 C'&eacute;tait dans la cave d'un immeuble, le but &eacute;tait de changer la chaudi&egrave;re. Dans cette pi&egrave;ce il y avait une sorte de support en b&eacute;ton utilis&eacute; pour l'ancienne chaudi&egrave;re. Comme la nouvelle &eacute;tait plus grosse, il fallait le casser. Mon p&egrave;re avait pr&eacute;vu une journ&eacute;e &agrave; 2 (et avait donc factur&eacute; 2 jours &agrave; 2).
 
-Je me suis retrouv&eacute; avec Ludo pour faire &ccedil;a. Ludo, c'est un breton, avec l'accent, on comprend rien &agrave; ce qu'il dit, il ne fait que raler. En fait, il me fait beaucoup penser &agrave; certains de mes coll&egrave;gues d&eacute;veloppeur. On arrive, serein, avec nos marteaux piqueurs &eacute;lectriques et on commence &agrave; d&eacute;truire ce bloc.
+Je me suis retrouv&eacute; avec Ludo pour faire &ccedil;a. Ludo, c'est un breton, avec l'accent, on comprend rien &agrave; ce qu'il dit, il ne fait que r&acirc;ler. En fait, il me fait beaucoup penser &agrave; certains de mes coll&egrave;gues d&eacute;veloppeur. On arrive, serein, avec nos marteaux piqueurs &eacute;lectriques et on commence &agrave; d&eacute;truire ce bloc.
 
-Au bout d'une heure, on se retrouve &agrave; taper dans quelque-chose de dur, de tr&egrave;s dur. Ceux qui avaient coul&eacute; ce bloc avaient cal&eacute; de  grosses pierres dedans.
+Au bout d'une heure, on se retrouve &agrave; taper dans quelque chose de dur, de tr&egrave;s dur. Ceux qui avaient coul&eacute; ce bloc avaient cal&eacute; de  grosses pierres dedans.
 
 Du coup, on s'est retrouv&eacute; comme des cons avec nos petits marteaux piqueurs &eacute;lectriques. Pas assez puissants.
 On appelle mon p&egrave;re et on d&eacute;cide d'aller chercher le gros marteau piqueur &agrave; air comprim&eacute;. On prend le camion, on va chercher le compresseur et le marteau piqueur, on l'installe. On commence un peu &agrave; travailler mais c'est d&eacute;j&agrave; la fin de la premi&egrave;re journ&eacute;e. On le d&eacute;sinstalle, on nettoie et la journ&eacute;e est finie. On n'avait pas fait le quart du travail &agrave; faire.
 
 Finalement, on a pass&eacute; 3 jours sur ce bloc de b&eacute;ton.
 
-En fait, on a &eacute;t&eacute; confront&eacute; &agrave; un bloc mal construit, du legacy. On ne pouvait pas pr&eacute;voir ce qu'on allait trouv&eacute; dedans.
+En fait, on a &eacute;t&eacute; confront&eacute; &agrave; un bloc mal construit, du legacy. On ne pouvait pas pr&eacute;voir ce qu'on allait trouver dedans.
 
-D'ailleurs, je n'ai jamais entendu mon p&egrave;re demander &agrave; ses employ&eacute;s s'engager sur une *deadline*.
+D'ailleurs, je n'ai jamais entendu mon p&egrave;re demander &agrave; ses employ&eacute;s de s'engager sur une *deadline*.
 
 ## A l'arrache
 
-Ce genre de situation, je les vis tr&egrave;s souvent en tant que d&eacute;veloppeur et il y a une chose qui m'&eacute;tonne toujours: lorsque que l'on est confront&eacute; &agrave; un impr&eacute;vu qui peut nous faire perdre du temps, il en a toujours un pour dire aux d&eacute;veloppeurs :
+Ce genre de situation, je les vis tr&egrave;s souvent en tant que d&eacute;veloppeur et il y a une chose qui m'&eacute;tonne toujours: lorsque que l'on est confront&eacute; &agrave; un impr&eacute;vu qui peut nous faire perdre du temps, il y en a toujours un pour dire aux d&eacute;veloppeurs :
 
 *"Trouve nous une solution vite fait, fait un truc &agrave; l'arrache, t'as pas une solution plus rapide ?"*.
 
@@ -238,19 +238,19 @@ C'est marrant, parce que, je ne me vois pas du tout dire &ccedil;a &agrave; mon 
 
 D'ailleurs, est-ce que vous laisseriez un artisan travailler sans tester son travail ?
 
-J'ai particip&eacute; avec mon p&egrave;re &agrave; la construction de mur et de toiture. Vous savez comment se monte un mur ? La pose du qu&eacute;ron, c'est rapide, ce qui prend du temps, et le vrai travail, c'est le test de la pose. Le fil &agrave; plomb du ma&ccedil;on c'est nos tests unitaires. Chaque brique du mur est test&eacute;e, ind&eacute;pendamment, unitairement et aussi entre elles. Lorsque l'on fait une toiture, on envoie de l'eau dessus pour v&eacute;rifier qu'il n'y a pas de fuite.
+J'ai particip&eacute; avec mon p&egrave;re &agrave; la construction de murs et de toitures. Vous savez comment se monte un mur ? La pose du qu&eacute;ron, c'est rapide, ce qui prend du temps, et le vrai travail, c'est le test de la pose. Le fil &agrave; plomb du ma&ccedil;on c'est nos tests unitaires. Chaque brique du mur est test&eacute;e, ind&eacute;pendamment, unitairement et aussi entre elles. Lorsque l'on fait une toiture, on envoie de l'eau dessus pour v&eacute;rifier qu'il n'y a pas de fuite.
 
 On teste m&ecirc;me avant de commencer &agrave; travailler. Lorsque mon grand p&egrave;re commence un mur, il pose toujours un cordeau. Il permet de v&eacute;rifier en permanence que chaque pierre du mur que l'on pose est align&eacute;e. On fait du TDD en quelque sorte.
 
 Attention, &ccedil;a n'emp&ecirc;che pas les bugs, &ccedil;a les limite, mais &ccedil;a ne les emp&ecirc;che pas. Une petite temp&ecirc;te et les tuiles volent, les goutti&egrave;res se fissurent. Mon p&egrave;re passe beaucoup de temps &agrave; corriger ce genre de bugs. C'est d'ailleurs tr&egrave;s fatiguant car il passe finalement plus de temps en transport et &agrave; chercher le probl&egrave;me qu'&agrave; r&eacute;ellement r&eacute;parer.
 
 Je dis souvent que 80% de la correction d'un bug, c'est de le trouver, mon p&egrave;re c'est pareil... il y a d'abord le transport, puis trouver la tuile qui fuit, et finalement, la r&eacute;paration, c'est rapide.  
-D'ailleurs, c'est marrant comme la mont&eacute;e en charge d'une maison peut causer des bugs. Comme le fait d'utiliser une maison pour un usage qui ne lui ai pas destin&eacute;, comme lors d'une temp&egrave;te, un s&eacute;isme ou une inondation.  
-Un peu comme lorsque tu maintiens un site e-commerce et que tu es cit&eacute; dans [Capital](http://1001pharmacies.github.io/general/effet-capital)
+D'ailleurs, c'est marrant comme la mont&eacute;e en charge d'une maison peut causer des bugs. Comme le fait d'utiliser une maison pour un usage qui ne lui est pas destin&eacute;, comme lors d'une temp&ecirc;te, un s&eacute;isme ou une inondation.  
+Un peu comme lorsque tu maintiens un site e-commerce et que tu es cit&eacute; dans [Capital](http://1001pharmacies.github.io/general/effet-capital).
 
 ## Des outils
 
-Mon grand p&egrave;re monte des murs dans une association de jeunes en insertion. A plus de 80 ans, il faut vraiment &ecirc;tre passionn&eacute; pour faire &ccedil;a. Il m'a racont&eacute; une annecdote. Une fois, il devait poser une cl&eacute; mais la pierre choisie faisait plus de 100Kg. C'est parfait, car le poids am&egrave;nera une meilleure stabilit&eacute;.
+Mon grand-p&egrave;re monte des murs dans une association de jeunes en insertion. A plus de 80 ans, il faut vraiment &ecirc;tre passionn&eacute; pour faire &ccedil;a. Il m'a racont&eacute; une anecdote. Une fois, il devait poser une cl&eacute; mais la pierre choisie faisait plus de 100Kg. C'est parfait, car le poids am&egrave;nera une meilleure stabilit&eacute;.
 
 Mon grand p&egrave;re a dit aux jeunes : *"Bon, on va mettre cette pierre l&agrave;"*. Tout de suite, les jeunes se sont mis &agrave; dire: *"non mais c'est trop lourd, ce n'est pas possible, on va se faire mal, en plus c'est tard, c'est bon quoi..."*.  
 Mon grand p&egrave;re les a laiss&eacute; partir. Il a approch&eacute; l'&eacute;chafaudage, pos&eacute; des poulies, un pont roulant et commenc&eacute; &agrave; caler des cordes sous la pierre. Et il l'a mont&eacute;e, seul, et il l'a pos&eacute;e. Je ne sais pas comment il fait, mais il a utilis&eacute; son savoir-faire et toute sa fain&eacute;antise pour, &agrave; plus de 80 ans poser cette pierre.
@@ -259,10 +259,10 @@ Mon grand p&egrave;re les a laiss&eacute; partir. Il a approch&eacute; l'&eacute
 
 Cela m'a rappel&eacute; cette fois où je travaillais sur un import de fichier avec un gros traitement derri&egrave;re, d'abord sur un petit fichier, le script passait sans probl&egrave;me, le truc c'est que le fichier, finalement, il faisait des millions de lignes, et l&agrave;, le serveur ne tenait plus la charge et le traitement allait prendre plusieurs jours!
 
-Comment faire ? D&eacute;couper le fichier et lancer 50 imports au lieu d'un ? Non, l'&eacute;quipe &eacute;tait trop faignante pour &ccedil;a. J'ai pr&eacute;f&eacute;r&eacute; utilis&eacute; un pont roulant, on a mont&eacute; un [RabbitMq](https://www.rabbitmq.com/) et on a trait&eacute; le fichier en utilisant une queue pour un traitement asynchrone et parall&eacute;lis&eacute;e.  
+Comment faire ? D&eacute;couper le fichier et lancer 50 imports au lieu d'un ? Non, l'&eacute;quipe &eacute;tait trop faignante pour &ccedil;a. J'ai pr&eacute;f&eacute;r&eacute; utiliser un pont roulant, on a mont&eacute; un [RabbitMq](https://www.rabbitmq.com/) et on a trait&eacute; le fichier en utilisant une queue pour un traitement asynchrone et parall&eacute;lis&eacute;.  
 Finalement, le traitement n'a pris que quelques heures.
 
-Je suis impressionn&eacute; par le nombre d'outils diff&eacute;rents que peut utiliser un artisan, mon grand p&egrave;re les collectionne, il sillonne les brocantes pour trouver des outils toujours plus anciens et parfois bizarres.
+Je suis impressionn&eacute; par le nombre d'outils diff&eacute;rents que peut utiliser un artisan, mon grand-p&egrave;re les collectionne, il sillonne les brocantes pour trouver des outils toujours plus anciens et parfois bizarres.
 
 Quand je rentre dans son atelier, j'ai l'impression d'&ecirc;tre sur `npm`, `composer`, `apt-get`, `gem` ou `pip`. Des outils de toutes sortes, pour des utilisations plus ou moins sp&eacute;cifiques, dans des contextes diff&eacute;rents. Une sorte de pelle recourb&eacute;e pour m&eacute;langer le mortier, des marteaux de toutes les tailles...
 
@@ -279,7 +279,7 @@ Il a aussi une d&eacute;finition des outils que j'aime : *"un outil c'est un obj
 
 J'ai particip&eacute; aussi &agrave; un autre chantier qui m'a beaucoup marqu&eacute;, un chantier particuli&egrave;rement difficile car il touchait toute la structure du b&acirc;timent.
 
-C'&eacute;tait un vieil immeuble de 5-6 &eacute;tages dans le centre de Nîmes. Les propri&eacute;taires ont voulut y mettre un parking souterrain. Pour cela, il fallait agrandir la cave et d&eacute;placer un pilier porteur. Je ne sais pas si vous imaginez le travail de fou qu'il y avait !
+C'&eacute;tait un vieil immeuble de 5-6 &eacute;tages dans le centre de Nîmes. Les propri&eacute;taires ont voulu y mettre un parking souterrain. Pour cela, il fallait agrandir la cave et d&eacute;placer un pilier porteur. Je ne sais pas si vous imaginez le travail de fou qu'il y avait !
 
 Lors de l'appel d'offre, personne ne voulait le faire. Trop dangereux, risqu&eacute;, trop compl&egrave;xe. Mon p&egrave;re a finalement accept&eacute; de le faire. Pendant ce chantier, je me souviens de 2 choses : son stress et de l'&eacute;tat de transition du sous-sol.
 
@@ -289,7 +289,7 @@ Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute;
 
 J'ai migr&eacute; plusieurs applications PHP d'une base avec un framework maison ou d&eacute;pass&eacute; vers Symfony. J'ai ressenti ce stress lorsque les premi&egrave;res requ&ecirc;tes ne passent plus par le code legacy mais par le Kernel Symfony. C'&eacute;tait le m&ecirc;me stress que lorsque que j'ai enlev&eacute; les &eacute;tais dans ce sous sol, pour chaque &eacute;tais, un par un.
 
-C'est comme arriver sur une application avec toute une partie du code qu'aucun d&eacute;veloppeur n'ose toucher car elle est trop complexe, mal &eacute;crite, et qu'une modification peut avoir de grosses cons&eacute;quences. &Ccedil;a fait peur.
+C'est comme arriver sur une application avec toute une partie du code qu'aucun d&eacute;veloppeur n'ose toucher car elle est trop compl&ecirc;xe, mal &eacute;crite, et qu'une modification peut avoir de grosses cons&eacute;quences. &Ccedil;a fait peur.
 
 C'est pour moi la d&eacute;finition du code Legacy : *c'est du code que l'on a peur de modifier*.
 
@@ -313,7 +313,7 @@ Comme mon grand-p&egrave;re et son asssociation de b&acirc;tisseurs en pierres s
 **Not only customer collaboration, but also productive partnerships**  
 Pas seulement de la collaboration avec le client, mais aussi des partenariats productifs.
 
-Ce qu'il faut pour moi retenir c'est au del&agrave; d'&ecirc;tre des d&eacute;veloppeurs, nous sommes avant tout des professionnels et que si on est des professionnels, c'est que l'on a un savoir-faire.
+Ce qu'il faut pour moi retenir c'est qu'au-del&agrave; d'&ecirc;tre des d&eacute;veloppeurs, nous sommes avant tout des professionnels et que si on est des professionnels, c'est que l'on a un savoir-faire.
 
-Comme vous n'accepteriez pas que votre ma&ccedil;on refasse votre toiture sans v&eacute;rifier si elle fuie,
+Comme vous n'accepteriez pas que votre ma&ccedil;on refasse votre toiture sans v&eacute;rifier si elle fuit,
 comme vous n'accepteriez pas que votre &eacute;lectricien confie votre installation &agrave; un stagiaire sans formation, confier la cr&eacute;ation d'une application, qui deviendra &agrave; terme un outil quotidien, qui va faire gagner du temps, de l'argent, qui est parfois la strat&eacute;gie de toute une entreprise, &ccedil;a doit &ecirc;tre confi&eacute; &agrave; des professionnels.
