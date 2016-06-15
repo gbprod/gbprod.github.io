@@ -5,7 +5,7 @@ description: >
   Blog technique de Gilles Roustan, artisan développeur.
 keywords: Gilles Roustan, Développeur, Symfony2, PHP, MySQL, HTML, CSS, CQRS, DDD, RabbitMq, Domain driven design, agile, scrum
 baseurl: ""
-url: "https://gb-prod.fr"
+url: "http://gb-prod.fr"
 twitter_username: GillesRoustan
 github_username:  gbprod
 about: >
