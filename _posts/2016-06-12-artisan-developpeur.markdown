@@ -113,7 +113,7 @@ Le chef de projet me soutenait qu'il n'y avait rien &agrave; faire, que &ccedil;
 
 Bref, une belle merde...
 
-5 jours plus tard, je rends le projet fini et fonctionnel. Je montre le code chef de projet. Sa r&eacute;action m'a vraiment surpris: il m'a dit *"Et ben tu vois, c'&eacute;tait simple, ton code est super simple, y'avais pas grand choses &agrave; faire finalement"*.
+5 jours plus tard, je rends le projet fini et fonctionnel. Je montre le code au chef de projet. Sa r&eacute;action m'a vraiment surpris: il m'a dit *"Et ben tu vois, c'&eacute;tait simple, ton code est super simple, y'avais pas grand choses &agrave; faire finalement"*.
 
 J'ai dit *"Merci"*.
 
@@ -283,7 +283,7 @@ C'&eacute;tait un vieil immeuble de 5-6 &eacute;tages dans le centre de Nîmes. 
 
 Lors de l'appel d'offre, personne ne voulait le faire. Trop dangereux, risqu&eacute;, trop compl&egrave;xe. Mon p&egrave;re a finalement accept&eacute; de le faire. Pendant ce chantier, je me souviens de 2 choses : son stress et de l'&eacute;tat de transition du sous-sol.
 
-Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute; de compenser en posant des &eacute;tais et il y en avait tellement que l'on pouvait &agrave; peine se d&eacute;placer. On &eacute;tait oblig&eacute; de se faufiler entre les &eacute;tais pour aller casser ce pilier. Oui, refondre la structure d'un b&acirc;timent, c'est compliqu&eacute;. C'est comme modifier toute une couche d'une application, la structure de base, passer d'une UI desktop en web, passer d'une base SQL &acute; NoSQL, &ccedil;a pique.
+Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute; de compenser en posant des &eacute;tais et il y en avait tellement que l'on pouvait &agrave; peine se d&eacute;placer. On &eacute;tait oblig&eacute; de se faufiler entre les &eacute;tais pour aller casser ce pilier. Oui, refondre la structure d'un b&acirc;timent, c'est compliqu&eacute;. C'est comme modifier toute une couche d'une application, la structure de base, passer d'une UI desktop en web, passer d'une base SQL &agrave; NoSQL, &ccedil;a pique.
 
 ![Etais](/static/img/artisan/etais.jpg)
 
@@ -300,7 +300,7 @@ C'est un manifeste sign&eacute; par des professionnels comme Kent Beck ou Robert
 
 **Not only working software, but also well-crafted software**  
 Pas seulement un logiciel qui marche, mais aussi un logiciel bien fait.  
-Avec des tests, au fil &agrave; plomb, au lazer, avec les bons outils.
+Avec des tests, au fil &agrave; plomb, au laser, avec les bons outils.
 
 **Not only responding to change, but also steadily adding value**  
 Pas seulement r&eacute;pondre au changement, mais aussi ajouter r&eacute;guli&egrave;rement de la valeur.  
