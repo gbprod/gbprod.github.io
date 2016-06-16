@@ -5,7 +5,7 @@ description: >
   Dans ma famille, on est artisan de p&egrave;re en fils.
   Mon p&egrave;re est artisan ma&ccedil;on, mon grand-p&egrave;re artisan b&acirc;tisseur, et je suis artisan... d&eacute;veloppeur.
   J'ai refait des toitures, des fa&ccedil;ades et autres, aujourd'hui je me rends compte que le m&eacute;tier de mon p&egrave;re et mon grand-p&egrave;re n'est pas si &eacute;loign&eacute; du mien.
-  Je vais vous raconter pourquoi autour d'anecdotes de la vie quotidienne des d&eacute;veloppeurs et des artisans.
+  Je vais vous raconter paourquoi autour d'anecdotes de la vie quotidienne des d&eacute;veloppeurs et des artisans.
 ---
 
 
@@ -68,7 +68,7 @@ Je dis souvent que si le jeune va plus vite, l'ancien connait la route.
 En informatique ils appellent &ccedil;a l'exp&eacute;rience, moi je pr&eacute;f&egrave;re parler de savoir-faire.
 La r&eacute;alit&eacute;, c'est que l'on n'apprend pas &agrave; coder &agrave; l'&eacute;cole, on apprend &agrave; coder sur le terrain.
 
-A l'&eacute;cole on voit quelques bases de d&eacute;veloppement, les notions simple d'algorithmie, et on ne voit pas comment g&eacute;rer un site avec un trafic de millions de visiteurs par mois, on ne voit pas comment reprendre un projet mal cod&eacute;, sans tests et sans documentation, on ne voit pas les principes de la programmation *"moderne"* comme [l'injection de d&eacute;pendances](http://putaindecode.io/fr/articles/php/injection-dependances), [Clean code](https://cleancoders.com/episode/clean-code-episode-1/show) ou les principes [SOLID](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/) (en tout cas, moi je ne l'ai jamais vu... et j'esp&egrave;re que l'on en parle maintenant !).
+A l'&eacute;cole on voit quelques bases de d&eacute;veloppement, les notions simple d'algorithmique, et on ne voit pas comment g&eacute;rer un site avec un trafic de millions de visiteurs par mois, on ne voit pas comment reprendre un projet mal cod&eacute;, sans tests et sans documentation, on ne voit pas les principes de la programmation *"moderne"* comme [l'injection de d&eacute;pendances](http://putaindecode.io/fr/articles/php/injection-dependances), [Clean code](https://cleancoders.com/episode/clean-code-episode-1/show) ou les principes [SOLID](http://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/) (en tout cas, moi je ne l'ai jamais vu... et j'esp&egrave;re que l'on en parle maintenant !).
 
 Comment cela se passe chez les artisans ?
 On ne parle pas vraiment de formations ou d'&eacute;tudes, on parle d'apprentissage, la diff&eacute;rence c'est que l'on apprend par la pratique.
@@ -104,7 +104,7 @@ Lorsque j'ai pos&eacute; la *damasse*, j'ai eu l'impression de gagner beaucoup d
 Mais une fois que j'ai commenc&eacute; &agrave; poser des pierres dessus, &ccedil;a s'est compliqu&eacute;, j'avais du mal &agrave; les faire tenir car la damasse ne me donnait pas une assise solide.
 J'ai fini par l'enlever... et donc &agrave; enlever toutes les pierres d'au-dessus et d'&agrave; c&ocirc;t&eacute;. J'avais du mauvais code dans mon mur qui m'handicapait et m'emp&ecirc;chait de progresser correctement. Du coup, j'ai refactor&eacute; mon mur.
 
-Si pour mon grand-p&egrave;re la derni&egrave;re pierre est aussi facile &agrave; poser, c'est qu'il a soign&eacute; son travail d&egrave;s le d&eacute;but. Il a respect&eacute; les patterns de construction. M&ecirc;me les pierres pos&eacute;es &agrave; l'int&eacute;rieur, qui ne se voient pas &eacute;taient pos&eacute;es avec soin, car elles sont aussi importantes que celles que l'on voient. L'attention que mon grand-p&egrave;re porte &agrave; chaque d&eacute;tail est impressionnante.
+Si pour mon grand-p&egrave;re la derni&egrave;re pierre est aussi facile &agrave; poser, c'est qu'il a soign&eacute; son travail d&egrave;s le d&eacute;but. Il a respect&eacute; les patterns de construction. M&ecirc;me les pierres pos&eacute;es &agrave; l'int&eacute;rieur, qui ne se voient pas &eacute;taient pos&eacute;es avec soin, car elles sont aussi importantes que celles que l'on voit. L'attention que mon grand-p&egrave;re porte &agrave; chaque d&eacute;tail est impressionnante.
 
 ## A propos de la simplicit&eacute;
 
@@ -113,7 +113,7 @@ Le chef de projet me soutenait qu'il n'y avait rien &agrave; faire, que &ccedil;
 
 Bref, une belle merde...
 
-5 jours plus tard, je rends le projet fini et fonctionnel. Je montre le code au chef de projet. Sa r&eacute;action m'a vraiment surpris: il m'a dit *"Et ben tu vois, c'&eacute;tait simple, ton code est super simple, y'avais pas grand choses &agrave; faire finalement"*.
+5 jours plus tard, je rends le projet fini et fonctionnel. Je montre le code au chef de projet. Sa r&eacute;action m'a vraiment surpris : il m'a dit *"Et ben tu vois, c'&eacute;tait simple, ton code est super simple, y'avait pas grand chose &agrave; faire finalement"*.
 
 J'ai dit *"Merci"*.
 
@@ -148,7 +148,7 @@ Peut-&ecirc;tre qu'il ne s'&eacute;tait pas encore plant&eacute; en le faisant ?
 Quand je travaille &agrave; l'am&eacute;lioration d'une classe, d'un projet, je pense souvent &agrave; cette phrase de Saint-Exup&eacute;ry : *"La perfection est atteinte, non pas lorsqu'il n'y a plus rien &agrave; ajouter, mais lorsqu'il n'y a plus rien &agrave; retirer."*
 J'essaie au maximum de garder &ccedil;a en t&ecirc;te. Si une fonction, une classe me paraît complexe, je me demande toujours : qu'est-ce que je peux enlever ?
 
-Je dis d'ailleurs souvent que le code *me paraît complexe*. Dans le code, beaucoup de choses sont du ressenti, du sentiment. A mon sens, le meilleur indicateur d'un code mal &eacute;crit, c'est mes tripes.  
+Je dis d'ailleurs souvent que le code *me paraît complexe*. Dans le code, beaucoup de choses sont du ressenti, du sentiment. &Agrave; mon sens, le meilleur indicateur d'un code mal &eacute;crit, c'est mes tripes.  
 &Ccedil;a se sent quand un code est mal &eacute;crit, c'est pour cela qu'en Clean code on parle de [code smells](https://blog.codinghorror.com/code-smells/), d'odeurs de code. Si je vois un singleton, &ccedil;a pue, je sens que quelque chose ne va pas, comme quand mon grand-p&egrave;re voit un *coup de sabre*.
 
 ![Coup de sabre](/static/img/artisan/coup-de-sabre.jpg)
@@ -165,7 +165,7 @@ Au milieu, mon p&egrave;re a commenc&eacute; &agrave; me demander une pelle, je 
 Mon p&egrave;re m'a rapidement arr&ecirc;t&eacute; et m'a sorti sa citation pr&eacute;f&eacute;r&eacute;e : *"Qui n'a pas de t&ecirc;te, a de bonnes jambes"*.  
 Je ne r&eacute;fl&eacute;chissais pas, je faisais des trajets &agrave; vide, et je ne les optimisais pas. *"Am&egrave;ne tous les outils d'un coup au lieu de les amener un par un, et ne cours pas, &ccedil;a sert &agrave; rien, optimise ton temps et tes efforts. C'est un marathon, pas un sprint."*. Aujourd'hui, j'entends &ccedil;a de mon scrum master.
 
-Le d&eacute;veloppeur qui a ajout&eacute; les logs, il a de sacr&eacute;es bonnes jambes. Comme il n'a pas r&eacute;fl&eacute;chi, il se donne du travail en plus. En r&eacute;alit&eacute;, un bon d&eacute;veloppeur, comme un bon ma&ccedil;on, il est feignant !
+Le d&eacute;veloppeur qui a ajout&eacute; les logs, il a de sacr&eacute;es bonnes jambes. Comme il n'a pas r&eacute;fl&eacute;chi, il se donne du travail en plus. En r&eacute;alit&eacute;, un bon d&eacute;veloppeur, comme un bon ma&ccedil;on, il est fain&eacute;ant !
 
 En plus, en r&eacute;alit&eacute;, mon p&egrave;re cassait le haut de l'escalier pour pouvoir y fixer une poulie, qui m'a bien simplifi&eacute; le travail ensuite.
 
@@ -176,7 +176,7 @@ Chaque jour, en fin de journ&eacute;e, on passait bien 20 minutes tous ensemble 
 
 Mon p&egrave;re dit : *"Un bon artisan rend le chantier plus propre que lorsqu'il est arriv&eacute;"*.
 
-(Si vous vous dîtes que vous n'avez jamais eu de bon ma&ccedil;on, c'est tr&egrave;s probable. Un bon ma&ccedil;on, c'est comme un bon d&eacute;veloppeur, c'est rare)
+(Si vous vous dites que vous n'avez jamais eu de bon ma&ccedil;on, c'est tr&egrave;s probable. Un bon ma&ccedil;on, c'est comme un bon d&eacute;veloppeur, c'est rare)
 
 ![Chantier sale](/static/img/artisan/chantier-sale.jpg)
 
@@ -211,7 +211,7 @@ Je me suis rappel&eacute; d'un chantier auquel j'ai particip&eacute; il y a long
 
 C'&eacute;tait dans la cave d'un immeuble, le but &eacute;tait de changer la chaudi&egrave;re. Dans cette pi&egrave;ce il y avait une sorte de support en b&eacute;ton utilis&eacute; pour l'ancienne chaudi&egrave;re. Comme la nouvelle &eacute;tait plus grosse, il fallait le casser. Mon p&egrave;re avait pr&eacute;vu une journ&eacute;e &agrave; 2 (et avait donc factur&eacute; 2 jours &agrave; 2).
 
-Je me suis retrouv&eacute; avec Ludo pour faire &ccedil;a. Ludo, c'est un breton, avec l'accent, on comprend rien &agrave; ce qu'il dit, il ne fait que r&acirc;ler. En fait, il me fait beaucoup penser &agrave; certains de mes coll&egrave;gues d&eacute;veloppeur. On arrive, serein, avec nos marteaux piqueurs &eacute;lectriques et on commence &agrave; d&eacute;truire ce bloc.
+Je me suis retrouv&eacute; avec Ludo pour faire &ccedil;a. Ludo, c'est un breton, avec l'accent, on comprend rien &agrave; ce qu'il dit, il ne fait que r&acirc;ler. En fait, il me fait beaucoup penser &agrave; certains de mes coll&egrave;gues d&eacute;veloppeurs. On arrive, sereins, avec nos marteaux piqueurs &eacute;lectriques et on commence &agrave; d&eacute;truire ce bloc.
 
 Au bout d'une heure, on se retrouve &agrave; taper dans quelque chose de dur, de tr&egrave;s dur. Ceux qui avaient coul&eacute; ce bloc avaient cal&eacute; de  grosses pierres dedans.
 
@@ -220,19 +220,19 @@ On appelle mon p&egrave;re et on d&eacute;cide d'aller chercher le gros marteau 
 
 Finalement, on a pass&eacute; 3 jours sur ce bloc de b&eacute;ton.
 
-En fait, on a &eacute;t&eacute; confront&eacute; &agrave; un bloc mal construit, du legacy. On ne pouvait pas pr&eacute;voir ce qu'on allait trouver dedans.
+En fait, on a &eacute;t&eacute; confront&eacute;s &agrave; un bloc mal construit, du legacy. On ne pouvait pas pr&eacute;voir ce qu'on allait trouver dedans.
 
 D'ailleurs, je n'ai jamais entendu mon p&egrave;re demander &agrave; ses employ&eacute;s de s'engager sur une *deadline*.
 
-## A l'arrache
+## &Agrave; l'arrache
 
-Ce genre de situation, je les vis tr&egrave;s souvent en tant que d&eacute;veloppeur et il y a une chose qui m'&eacute;tonne toujours: lorsque que l'on est confront&eacute; &agrave; un impr&eacute;vu qui peut nous faire perdre du temps, il y en a toujours un pour dire aux d&eacute;veloppeurs :
+Ce genre de situation, je les vis tr&egrave;s souvent en tant que d&eacute;veloppeur et il y a une chose qui m'&eacute;tonne toujours : lorsque que l'on est confront&eacute;s &agrave; un impr&eacute;vu qui peut nous faire perdre du temps, il y en a toujours un pour dire aux d&eacute;veloppeurs :
 
-*"Trouve nous une solution vite fait, fait un truc &agrave; l'arrache, t'as pas une solution plus rapide ?"*.
+*"Trouve nous une solution vite fait, fais un truc &agrave; l'arrache, t'as pas une solution plus rapide ?"*.
 
 C'est marrant, parce que, je ne me vois pas du tout dire &ccedil;a &agrave; mon artisan:
 
-*"Non, mais si c'est trop compliqu&eacute; de faire les fondations, n'en fait pas.",*  
+*"Non, mais si c'est trop compliqu&eacute; de faire les fondations, n'en fais pas.",*  
 *"Ecoute, la fen&ecirc;tre, si elle ferme mal, c'est pas grave, passe en production quand m&ecirc;me",*  
 *"Laisse tomber les fusibles, je crois qu'EDF g&egrave;re d&eacute;j&agrave; la surtension"...*  
 
@@ -242,7 +242,7 @@ J'ai particip&eacute; avec mon p&egrave;re &agrave; la construction de murs et d
 
 On teste m&ecirc;me avant de commencer &agrave; travailler. Lorsque mon grand p&egrave;re commence un mur, il pose toujours un cordeau. Il permet de v&eacute;rifier en permanence que chaque pierre du mur que l'on pose est align&eacute;e. On fait du TDD en quelque sorte.
 
-Attention, &ccedil;a n'emp&ecirc;che pas les bugs, &ccedil;a les limite, mais &ccedil;a ne les emp&ecirc;che pas. Une petite temp&ecirc;te et les tuiles volent, les goutti&egrave;res se fissurent. Mon p&egrave;re passe beaucoup de temps &agrave; corriger ce genre de bugs. C'est d'ailleurs tr&egrave;s fatiguant car il passe finalement plus de temps en transport et &agrave; chercher le probl&egrave;me qu'&agrave; r&eacute;ellement r&eacute;parer.
+Attention, &ccedil;a n'emp&ecirc;che pas les bugs, &ccedil;a les limite, mais &ccedil;a ne les emp&ecirc;che pas. Une petite temp&ecirc;te et les tuiles volent, les goutti&egrave;res se fissurent. Mon p&egrave;re passe beaucoup de temps &agrave; corriger ce genre de bugs. C'est d'ailleurs tr&egrave;s fatigant car il passe finalement plus de temps en transport et &agrave; chercher le probl&egrave;me qu'&agrave; r&eacute;ellement r&eacute;parer.
 
 Je dis souvent que 80% de la correction d'un bug, c'est de le trouver, mon p&egrave;re c'est pareil... il y a d'abord le transport, puis trouver la tuile qui fuit, et finalement, la r&eacute;paration, c'est rapide.  
 D'ailleurs, c'est marrant comme la mont&eacute;e en charge d'une maison peut causer des bugs. Comme le fait d'utiliser une maison pour un usage qui ne lui est pas destin&eacute;, comme lors d'une temp&ecirc;te, un s&eacute;isme ou une inondation.  
@@ -250,16 +250,16 @@ Un peu comme lorsque tu maintiens un site e-commerce et que tu es cit&eacute; da
 
 ## Des outils
 
-Mon grand-p&egrave;re monte des murs dans une association de jeunes en insertion. A plus de 80 ans, il faut vraiment &ecirc;tre passionn&eacute; pour faire &ccedil;a. Il m'a racont&eacute; une anecdote. Une fois, il devait poser une cl&eacute; mais la pierre choisie faisait plus de 100Kg. C'est parfait, car le poids am&egrave;nera une meilleure stabilit&eacute;.
+Mon grand-p&egrave;re monte des murs dans une association de jeunes en insertion. &Agrave; plus de 80 ans, il faut vraiment &ecirc;tre passionn&eacute; pour faire &ccedil;a. Il m'a racont&eacute; une anecdote. Une fois, il devait poser une cl&eacute; mais la pierre choisie faisait plus de 100kg. C'est parfait, car le poids am&egrave;nera une meilleure stabilit&eacute;.
 
 Mon grand p&egrave;re a dit aux jeunes : *"Bon, on va mettre cette pierre l&agrave;"*. Tout de suite, les jeunes se sont mis &agrave; dire: *"non mais c'est trop lourd, ce n'est pas possible, on va se faire mal, en plus c'est tard, c'est bon quoi..."*.  
-Mon grand p&egrave;re les a laiss&eacute; partir. Il a approch&eacute; l'&eacute;chafaudage, pos&eacute; des poulies, un pont roulant et commenc&eacute; &agrave; caler des cordes sous la pierre. Et il l'a mont&eacute;e, seul, et il l'a pos&eacute;e. Je ne sais pas comment il fait, mais il a utilis&eacute; son savoir-faire et toute sa fain&eacute;antise pour, &agrave; plus de 80 ans poser cette pierre.
+Mon grand p&egrave;re les a laiss&eacute;s partir. Il a approch&eacute; l'&eacute;chafaudage, pos&eacute; des poulies, un pont roulant et commenc&eacute; &agrave; caler des cordes sous la pierre. Et il l'a mont&eacute;e, seul, et il l'a pos&eacute;e. Je ne sais pas comment il fait, mais il a utilis&eacute; son savoir-faire et toute sa fain&eacute;antise pour, &agrave; plus de 80 ans poser cette pierre.
 
 ![Pont roulant](/static/img/artisan/pont-roulant.jpg)
 
 Cela m'a rappel&eacute; cette fois où je travaillais sur un import de fichier avec un gros traitement derri&egrave;re, d'abord sur un petit fichier, le script passait sans probl&egrave;me, le truc c'est que le fichier, finalement, il faisait des millions de lignes, et l&agrave;, le serveur ne tenait plus la charge et le traitement allait prendre plusieurs jours!
 
-Comment faire ? D&eacute;couper le fichier et lancer 50 imports au lieu d'un ? Non, l'&eacute;quipe &eacute;tait trop faignante pour &ccedil;a. J'ai pr&eacute;f&eacute;r&eacute; utiliser un pont roulant, on a mont&eacute; un [RabbitMq](https://www.rabbitmq.com/) et on a trait&eacute; le fichier en utilisant une queue pour un traitement asynchrone et parall&eacute;lis&eacute;.  
+Comment faire ? D&eacute;couper le fichier et lancer 50 imports au lieu d'un ? Non, l'&eacute;quipe &eacute;tait trop fain&eacute;ante pour &ccedil;a. J'ai pr&eacute;f&eacute;r&eacute; utiliser un pont roulant, on a mont&eacute; un [RabbitMq](https://www.rabbitmq.com/) et on a trait&eacute; le fichier en utilisant une queue pour un traitement asynchrone et parall&eacute;lis&eacute;.  
 Finalement, le traitement n'a pris que quelques heures.
 
 Je suis impressionn&eacute; par le nombre d'outils diff&eacute;rents que peut utiliser un artisan, mon grand-p&egrave;re les collectionne, il sillonne les brocantes pour trouver des outils toujours plus anciens et parfois bizarres.
@@ -281,15 +281,15 @@ J'ai particip&eacute; aussi &agrave; un autre chantier qui m'a beaucoup marqu&ea
 
 C'&eacute;tait un vieil immeuble de 5-6 &eacute;tages dans le centre de Nîmes. Les propri&eacute;taires ont voulu y mettre un parking souterrain. Pour cela, il fallait agrandir la cave et d&eacute;placer un pilier porteur. Je ne sais pas si vous imaginez le travail de fou qu'il y avait !
 
-Lors de l'appel d'offre, personne ne voulait le faire. Trop dangereux, risqu&eacute;, trop compl&egrave;xe. Mon p&egrave;re a finalement accept&eacute; de le faire. Pendant ce chantier, je me souviens de 2 choses : son stress et de l'&eacute;tat de transition du sous-sol.
+Lors de l'appel d'offres, personne ne voulait le faire. Trop dangereux, risqu&eacute;, trop complexe. Mon p&egrave;re a finalement accept&eacute; de le faire. Pendant ce chantier, je me souviens de 2 choses : son stress et de l'&eacute;tat de transition du sous-sol.
 
 Pendant que l'on cassait le pilier porteur, on a &eacute;t&eacute; oblig&eacute; de compenser en posant des &eacute;tais et il y en avait tellement que l'on pouvait &agrave; peine se d&eacute;placer. On &eacute;tait oblig&eacute; de se faufiler entre les &eacute;tais pour aller casser ce pilier. Oui, refondre la structure d'un b&acirc;timent, c'est compliqu&eacute;. C'est comme modifier toute une couche d'une application, la structure de base, passer d'une UI desktop en web, passer d'une base SQL &agrave; NoSQL, &ccedil;a pique.
 
 ![Etais](/static/img/artisan/etais.jpg)
 
-J'ai migr&eacute; plusieurs applications PHP d'une base avec un framework maison ou d&eacute;pass&eacute; vers Symfony. J'ai ressenti ce stress lorsque les premi&egrave;res requ&ecirc;tes ne passent plus par le code legacy mais par le Kernel Symfony. C'&eacute;tait le m&ecirc;me stress que lorsque que j'ai enlev&eacute; les &eacute;tais dans ce sous sol, pour chaque &eacute;tais, un par un.
+J'ai migr&eacute; plusieurs applications PHP d'une base avec un framework maison ou d&eacute;pass&eacute; vers Symfony. J'ai ressenti ce stress lorsque les premi&egrave;res requ&ecirc;tes ne passent plus par le code legacy mais par le Kernel Symfony. C'&eacute;tait le m&ecirc;me stress que lorsque que j'ai enlev&eacute; les &eacute;tais dans ce sous sol, pour chaque &eacute;tai, un par un.
 
-C'est comme arriver sur une application avec toute une partie du code qu'aucun d&eacute;veloppeur n'ose toucher car elle est trop compl&ecirc;xe, mal &eacute;crite, et qu'une modification peut avoir de grosses cons&eacute;quences. &Ccedil;a fait peur.
+C'est comme arriver sur une application avec toute une partie du code qu'aucun d&eacute;veloppeur n'ose toucher car elle est trop complexe, mal &eacute;crite, et qu'une modification peut avoir de grosses cons&eacute;quences. &Ccedil;a fait peur.
 
 C'est pour moi la d&eacute;finition du code Legacy : *c'est du code que l'on a peur de modifier*.
 
