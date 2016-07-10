@@ -3,13 +3,13 @@ author: Gilles Roustan
 email: contact@gb-prod.fr
 description: >
   Blog technique de Gilles Roustan, artisan développeur.
-keywords: Gilles Roustan, Développeur, Symfony2, PHP, MySQL, HTML, CSS, CQRS, DDD, RabbitMq, Domain driven design, agile, scrum
+keywords: Gilles Roustan, Artisan, Développeur, Symfony2, PHP, MySQL, HTML, CSS, CQRS, DDD, RabbitMq, Domain driven design, agile, scrum
 baseurl: ""
 url: "http://gb-prod.fr"
 twitter_username: GillesRoustan
 github_username:  gbprod
 about: >
-      Artisan développeur Web
+      [Artisan](https://gbprod-gbprod.c9users.io/2016/06/12/artisan-developpeur.html) développeur Web
 markdown: kramdown
 github: https://github.com/gbprod
 urls:
