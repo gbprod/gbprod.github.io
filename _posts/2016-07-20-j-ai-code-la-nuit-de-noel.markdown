@@ -27,9 +27,9 @@ Cela peut paraître étrange, mais coder m'aide beaucoup ces derniers temps. C'e
 
 ## Un projet
 
-J'ai ressorti du placard un vieux projet récurent, le genre de projet que l'on commence 15 fois et que l'on ne finit jamais. C'est un jeu de rôle en ligne dans un univers du farwest. Il a été initialement créé par un de mes meilleurs amis qui crée aujourd'hui des jeux de sociétés. Il est génial. Il m'aide aussi beaucoup ces derniers mois.
+J'ai ressorti du placard un vieux projet récurrent, le genre de projet que l'on commence 15 fois et que l'on ne finit jamais. C'est un jeu de rôle en ligne dans un univers du farwest. Il a été initialement créé par un de mes meilleurs amis qui crée aujourd'hui des jeux de sociétés. Il est génial. Il m'aide aussi beaucoup ces derniers mois.
 
-Ce soir, je suis parti pour coder le système de duel, il n'est pas simple. Lors de la première version de ce jeu, des mathématiciens avait fait des études statistiques pour équilibrer le jeu et avaient fourni des formules de calculs précises et complexes.
+Ce soir, je suis parti pour coder le système de duel, il n'est pas simple. Lors de la première version de ce jeu, des mathématiciens avaient fait des études statistiques pour équilibrer le jeu et avaient fourni des formules de calculs précises et complexes.
 
 C'est génial, j'adore avoir des règles claires et précises. De plus, cela se prête vraiment bien au TDD et je sais que ça m'occupera l'esprit, que ça prendra toute la place dans ma tête, que cela ne laissera pas de place au reste, à ma femme, à mon fils, aux docteurs. Surtout ce soir, où je n'arrive pas à dormir, où je n'ai pas envie de dormir.
 
@@ -84,12 +84,12 @@ J'ai dans ma tête la carte des classes, des dépendances et des points un peu t
 
 ## TDD
 
-Pour cette seconde itération, je vais implémenter la classe principale, je connais les dépendances, sa responsabilité, je vais pouvoir faire du TDD. Pendant la pause, je m'interdis de toucher le clavier, ce temps est dédié à  la réflexion et à la planification.
+Pour cette seconde itération, je vais implémenter la classe principale, je connais les dépendances, sa responsabilité, je vais pouvoir faire du TDD. Pendant la pause, je m'interdis de toucher le clavier, ce temps est dédié à la réflexion et à la planification.
 
 Mes cowboys vont pouvoir commencer à se défier.
 
 Le TDD, c'est un peu du pomodoro à l'échelle d'une classe, comme le pomodoro est un sprint scrum à l'échelle d'une après-midi.  
-L'écriture du test, c'est de la planification, l'écriture du code, c'est l'implémentation, le refactoring, c'est la rétrospective.  
+L'écriture du test, c'est de la planification; l'écriture du code, c'est l'implémentation; le refactoring, c'est la rétrospective.  
 
 Je me rends compte aussi que les médecins font pareil.  
 Il analyse les données des prélèvements de ma femme, ils testent une nouvelle médication, ils analysent les résultats, puis ils recommencent tant qu'ils échouent. Aujourd'hui ils ont encore échoué. 
