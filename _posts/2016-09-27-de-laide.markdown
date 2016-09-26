@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "De l'aide"
+description: >
+    Ces derniers temps, et surtout depuis une rétrospective houleuse, je me suis posé beaucoup de questions sur l'aide, sur la façon de la donner, de la demander et de la recevoir.
+---
+
+Ces derniers temps, et surtout depuis une rétrospective houleuse, je me suis posé beaucoup de questions sur l'aide, sur la façon de la donner, de la demander et de la recevoir.
+
+Il s'agit d'un retour non exhaustif et complètement personnel.
+
+## Les faiseurs têtus
+
+Scrum est une méthode agile qui amène beaucoup de communication et d'échanges. Demander de l'aide y est (ou devrait y être) quotidien, mais chacun à sa façon de la demander et de la donner. Si la demande d'aide arrive à la rétrospective, c'est trop tard... 
+
+Lors de la fameuse rétrospective, un des développeur expliquait qu'il n'arrivait pas à s'en sortir avec l'installation des nouveaux serveurs de production. J'ai pourtant essayé à plusieurs reprises de lui apporter mon aide, soit il était en attente d'un fournisseur, soit il était déjà en train d'avancer sur le sujet. Et comme je ne suis pas très compétent en administration système, en réalité, je n'arrivais pas à l'aider.
+
+Beaucoup de développeurs ont du mal à se laisser aider, ils préfèrent prendre la responsabilité et **faire**. Peut-être un problème d'égo ? Après tout, se faire aider c'est admettre de ne pas savoir, admettre que tu as besoin de quelqu'un de meilleur que toi ? 
+
+Ces développeurs sont souvent ce que j'appellerai des ["faiseurs"](http://www.methylbro.fr/aventure/faire-cest-bon-mangez-en/). Avec ces profils, j'essaie d'apporter une aide pro-active, c'est-à-dire de prendre les tâches avant qu'il ne les commence. Sinon, j'ai droit à l'habituel *"C'est bon, je m'en occupe"*. Car le faiseur est souvent têtu, il s'épanouie dans la difficulté et apprend de ses échecs. Il devient souvent ronchon et râleur.
+
+Pour être honnête, je suis comme ça. Mais je me soigne. J'essaie de m'appliquer une règle simple pour me pas m'enfermer seul dans ma tâche : **la règle des 15 minutes**.
+
+## La règle des 15 minutes et les assistés
+
+Lorsque je suis confronté à un problème sur lequel je bloque, j'essaie toujours de prendre 15 minutes pour arriver à trouver une solution par moi-même. M'obliger à demander de l'aide contribue à m'empêcher de rentrer dans la catégorie des *faiseurs têtus*. Et 15 minutes, c'est assez court pour éviter de faire perdre trop de temps à l'équipe et au projet en étant bloqué dans une situation où je ne fait pas avancer les choses. Mais en même temps, c'est assez long pour ne déranger l'équipe que si j'en ai vraiment besoin.
+
+Cela m'évite aussi de rentrer dans une autre catégorie : *les assistés*. Ils s'agit de ces développeurs qui eux, savent parfaitement demander de l'aide : ils la demandent souvent même avant que le problème ne se pose. Et même si, du coup, il y a une vrai entraide permanente, ce n'est pas forcément bénéfique à la fin pour l'équipe et pour le développeur. 
+
+De la difficulté né l'apprentissage. On se souvient toujours des choses et des solutions aux problèmes sur lesquels on s'est particulièrement cassé la tête. Par exemple, je me souvient toujours de la première fois où je me suis pris la tête sur cette erreur PHP : `PHP Fatal error:  Can't use function return value in write context`. C'était pourtant il y a sûrement plus de 10 ans, mais cela m'a marqué à vie, j'ai appris, acquis et compris. Cela se passe aussi dans la vie courante, on se souvient toujours mieux du jour de la naissance de son fils que d'une journée banale d'il y a 2 semaines. Plus l'émotion créée est forte et longue, plus le souvenir est profond et pérène.
+
+C'est bien le problème des *assistés*, ils ne se créent pas assez d'émotions et apprennent moins, ou moins vite. Ils posent d'ailleurs souvent les mêmes questions... et c'est là où la perte de temps pour l'équipe devient trop importante et souvent un peu énervante...
+
+Si j'essaie d'être pro-actif avec les *faiseurs têtus*, avec les *assistés*, je préfère rester réactifs voir même de questionner le développeur sur les recherches qu'il a faite, ce qu'il a déjà testé.
+
+Ce profil d'assisté me semble très répandu dans le "middle-managment", ces "non-faiseurs" qui ne font que déléguer, qui profite des succès d'équipe et transfère la responsabilité des échecs. C'est souvent eux aussi qui, lorsqu'il demandent ton aide se positionne juste derrière toi, suivant ce que tu fais, pensant peut-être t'aider, mais souvent ça a l'effet inverse. 
+
+Si demander de l'aide est souvent difficile, la donner est tout aussi compliqué. Même si la bonne attitude serait de s'adapter à l'interlocuteur, il existe différent profils *d'aidants*. 
+
+## Concordisme et pompier pyromane
+
+Il existe des personnes qui aide de manière compulsive, dès qu'un problème se présente, ils se jettent dessus, le corrige vite et s'en attribue le mérite, se nourissent des félicitations. Ce sont les [pompiers pyromanes](http://www.geek-directeur-technique.com/2016/08/27/les-pompiers-pyromanes), c'est un profil dangereux. Ces personnes aiment tellement venir à la rescousse de leurs équipiers, qu'ils en créent inconsciements (ou pas) les conditions. De plus, ils ont tendance à se complaire dans une forme de concordisme malsain. Vous savez, ces fameuses phrases qui ont le don de m'énerver : *"J'en étais sur que ça allait merder !"*, *"C'était obligé que ça chie, je l'avais dit à la dernières planif'"*, *"Je vous avais prévenu !"*... prophéties auto-réalisatrices. Le pompier pyromane aime avoir raison, même si c'est après la bataille, même si c'est pour avoir raison qu'il a créé les conditions pour que cela se passe mal.
+
+Si les pompiers pyromanes sont un cas particulier, beaucoup de personnes sont des *aidants réactifs*. Ils aident que si on leur demande et ne font que ce qu'on leur demande. Peut-être pour se donner bonne conscience ?
+
+## (Non-)Aidant passif 
+
+Les aidants passifs sont sûrement la catégorie de personnes que j'apprécie le moins. Ce qui me suivent savent que j'ai passé (et continue d'ailleurs) [de mauvais moments dans ma vie perso](/2016/07/20/j-ai-code-la-nuit-de-noel.html). J'ai (eu) besoin d'aide, et comme je suis plutôt un faiseur têtu, je ne l'accepte pas toujours. Certaines personnes me disent souvent *"Gilles, si tu as besoin d'aide, tu sais qu'on est là, n'hésites pas"*. La tournure négative *"n'hésite pas"* à vraiment un sens : le cerveau ne comprend pas la négation, et si l'on tourne un phrase au négatif, c'est souvent que l'on veut dire l'inverse. 
+
+D'ailleurs je répond souvent : *"Ne t'inquiète pas"*. 
+
+Souvent, ces personnes, lorsque l'on demande réellement de l'aide ont toujours une bonne raison de ne pas la donner.
+
+Heuresement, je suis entouré de d'autres personnes qui sont des aidants pro-actif. Je ne leur demande rien, ils ne me proposent rien, ils font, ils me donnent leur aide. Si je suis dans une situation délicate, il ne me dise pas qu'il peuvent m'aider, ils m'aident. Les premiers mois du coma de ma femme, le meilleur soutient que je eu ne venait pas de ceux qui me plaignaient, mais de ceux qui agissaient sans me plaindre.
+
+J'ai deux amis, ils n'ont jamais été condescendant, ils n'ont jamais dit *"si tu as besoin d'aide"*, ils sont juste venu, par exemple, me chercher à l'improviste pour passer une après-midi entre amis, à s'amuser, sans parler du quotidien. Alors que souvent, ce qui s'auto-proclame pouvoir m'aider font souvent de la figuration.
+
+## Objectif
+
+Si aider et demander de l'aide n'est pas toujours facile, il faut savoir créer les conditions pour que cela se fasse. Il n'y a a mon avis pas de recette miracle, il faut savoir s'adapter au profil.
+
+Amener *faiseurs têtus* à partager le reste à faire pour pouvoir être pro-actif.  
+Amener au *assistés* une aide pédagogique.  
+Amener les *pompiers* (pyromane ou non) vers plus de qualité pour qu'ils anticipe les problèmes à venir au lieu de les créer.  
+Amener les *passifs* à réellement apporter leur aide plutôt que de simplement la proposer.
+
+Demander de l'aide n'est pas inné, cela s'apprend. C'est difficile pour certains et trop facile pour d'autre. Mais c'est une compétence essentiel, surtout pour les développeurs où ils existe tellement de compétences et de spécialisations différentes et où profiter de l'expérience et du savoir collectif est crucial.
