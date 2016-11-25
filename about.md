@@ -17,6 +17,7 @@ permalink: /about/
         <span class="time">Depuis 2014</span>
     </h4>
     <ul>
+        <li>Conception et développement de la v3 du site (DDD, CQRS, Déploiement continue, Symfony, Elasticsearch, Toggle feature, Infrastructure immutable, RabbitMq...)</li>
         <li>D&eacute;veloppement du site et d'outils backoffice</li>
         <li>Migration du site de CodeIgniter vers Symfony2</li>
         <li>Accompagnement et formation des d&eacute;veloppeurs</li>
@@ -76,6 +77,7 @@ permalink: /about/
     </h4>
     <h3>Orateur</h3>
     <ul>
+        <li>Forum PHP 2016 : Conf&eacute;rence <i>De CodeIgniter à CQRS en passant par la case Capital</i></li>
         <li>Agile tour Montpellier 2015 : Conf&eacute;rence <i>Artisan d&eacute;veloppeur</i></li>
         <li>Afterwork DDD : <a href="https://www.youtube.com/watch?v=eJlG10m4hJc">DDD: Retour d'exp&eacute;rience</a></li>
         <li>Plusieurs talks en interne &agrave; 1001pharmacies</li>
@@ -98,6 +100,9 @@ permalink: /about/
                 <li>Ap&eacute;ro Ruby</li>
                 <li>Startup weekend</li>
                 <li>Human Talks</li>
+                <li>Paris Web</li>
+                <li>Forum PHP</li>
+                <li>PHP Tour</li>
             </ul>
         </li>
     </ul>

@@ -12,23 +12,23 @@ about: >
       [Artisan](https://gbprod-gbprod.c9users.io/2016/06/12/artisan-developpeur.html) développeur Web
 markdown: kramdown
 github: https://github.com/gbprod
-urls:
-    - text: Blog
-      url: /
-    - text: A propos de moi
-      url: /about/
 
 social:
     - icon: fa-twitter
       link: "https://twitter.com/GillesRoustan"
+      text: "Twitter"
     - icon: fa-github
       link: "https://github.com/gbprod"
+      text: "Github"
     - icon: fa-slideshare
       link: "http://fr.slideshare.net/gbprod"
+      text: "Slideshare"
     - icon: fa-envelope
       link: "mailto:contact@gb-prod.fr"
+      text: "Email"
     - icon: fa-rss
       link: "/feed.xml"
+      text: "RSS"
 
 paginate: 20
 per_page: 20

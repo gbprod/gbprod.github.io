@@ -89,13 +89,12 @@
                 <div class="social">
                     <ul>
                         {% for link in site.social %}
-                            <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i></a></li>
+                            <li><a href="{{ link.link }}" target="_blank" title="{{ link.text }}"><i class="fa {{ link.icon }}"></i></a></li>
                         {% endfor %}
                     </ul>
                 </div>
-                {% for i in site.urls %}
-                    &nbsp;&raquo; <a class="about" href="{{ i.url }}">{{ i.text }}</a><br />
-                {% endfor %}
+                  &nbsp;&raquo; <a class="about" href="/about">A propos de moi</a><br />
+
                 <hr />
 
               </div><!-- end /.fixed-condition -->
@@ -107,7 +106,7 @@
                 <footer>
                     &copy; {{ site.author }}
                     {% if site.github %}
-                    - <a href="{{ site.github }}">{{ site.github }}</a> - Powered by Jekyll.
+                    - <a href="{{ site.github }}">{{ site.github }}</a>
                     {% endif %}
                 </footer>
             </div><!-- end /.col-sm-8 -->
