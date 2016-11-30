@@ -83,7 +83,7 @@ Une fois, on est sorti se balader après une grosse averse, il y avait des flaqu
 
 ## Apprendre
 
-Malgré tout, l'exercice de la revue de code met l'égo des développeurs à rude épreuve. C'est difficile, mais cela nous apprend progressivement à accepter nos erreurs et à apprendre de celles-ci. Il faut essayer de ne pas prendre les choses personnellement, après tout, **le code ne nous appartient pas**. Ce qui est important c'est le code et pas le développeur qui l'a écrit.
+Malgré tout, l'exercice de la revue de code met l'égo des développeurs à rude épreuve. C'est difficile, mais cela nous apprend progressivement à accepter nos erreurs et à apprendre de celles-ci. Il faut essayer de ne pas prendre les choses personnellement, après tout, **le code ne nous appartient pas**. Ce qui est doit être critiqué c'est le code et pas le développeur qui l'a écrit.
 
 ![Mousse au chocolat](/static/img/revue/mousse.jpg)
 
