@@ -25,7 +25,7 @@ Et c'est vrai que l'on apprend énormément en lisant le code des autres et sans
 
 Lors d'une expérience précèdente, j'ai réécrit une partie du framework Symfony dans un framework maison en l'adaptant à celui-ci (je n'expliquerai pas pourquoi...). En lisant, copiant, paraphrasant, comprenant, réécrivant, j'ai énormément appris. De nouvelles façons de tester, des utilisations de design pattern, des architectures auxquelles je n'avais pas pensées. Même si le travail pouvait sembler inutile et pénible, il a en réalité été très riche en enseignement. Mais à cette époque, je ne faisais pas relire mon code, un problème de culture je pense, et si je faisais une erreur d'inattention, on me *pointait du doigt*.
 
-Lorsque l'on pratique quotidiennement des revues en équipe, en plus d'avoir moins d'erreurs, on commence progressivement à **partager la responsabilité des erreurs**. Comment blâmer un développeur ayant introduit un bug si la moitié de l'équipe à valider ce code ?  
+Lorsque l'on pratique quotidiennement des revues en équipe, en plus d'avoir moins d'erreurs, on commence progressivement à **partager la responsabilité des erreurs**. Comment blâmer un développeur ayant introduit un bug si la moitié de l'équipe a validé ce code ?  
 Parce qu'il n'a pas écrit de test ? Pourquoi ne pas lui avoir dit avant de mettre un +1 ?  
 Parce qu'il n'a pas pensé à tout ? Mais je n'y ai pas pensé non plus quand j'ai écrit *LGTM* (Looks good to me)...
 
