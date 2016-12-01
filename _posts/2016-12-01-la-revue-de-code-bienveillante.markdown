@@ -128,7 +128,7 @@ Parfois, mon fils n'a pas envie d'aller à l'école. Est-ce qu'il est juste fain
 
 Lire une Pull Request, ça demande un gros effort de compréhension, il faut une lecture active et pas seulement survoler le code à la recherche de *"quelque chose à dire"*. Parfois même, si cela ne nous concerne pas, ou si l'on ne se sent pas compétent, il vaut mieux ne rien dire. Parfois, je me sens mal à l'aise avec du code, je ne sais pas forcément l'expliquer, c'est plus un ressenti. Dans ce cas, je ne pollue pas les commentaires avec un message qui pourrait être mal interprété ou mal compris. Je choisis souvent d'aller directement parler avec l'auteur. Se parler évite les mal-entendus, les quiproquos et rend les échanges plus riches et productifs.
 
-## Faire de son mieux
+## Faire de son mieux 
 
 Même si on essaie de faire des Pull Request parfaites, des commentaires bienveillants qui proposent une alternative justifiée, on fait toujours des erreurs, mais l'important c'est de faire de son mieux. J'ai toujours dit que la meilleure façon d'apprendre à un enfant à dire *"s'il te plait"* et *"merci"*, c'est de commencer par lui dire soi-même, par **montrer l'exemple**. Les enfants ont toujours tendance à copier les adultes, autant en profiter pour lui transmettre *passivement* ses valeurs. D'ailleurs, pourquoi il y a autant de jeux d'imitation ?
 
