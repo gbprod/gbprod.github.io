@@ -13,7 +13,7 @@ Aujourd'hui je le pratique quotidiennement, toute modification du code est soumi
 
 Pour moi, une revue de code à plusieurs objectifs qui sont à court, moyen et long terme, très bénéfiques.
 
-Que l'on soit développeur depuis 10, 20, 5 ou 2 ans, **on fait toujours des erreurs** et l'on en fera toujours. Et pas forcement que des erreurs d'inattention, cela peut être des erreurs d'architecture, de conception, de nommage... et plus on les détectent tôt, plus le coût pour les réparer, pour rembourser la dette sera faible. Et puis, aucun développeur ne peut penser toujours à tout, c'est impossible. De plus, chacun à des compétences différentes et complémentaires. Faire de la revue de code permet de mettre à profit les différences et la complémentarité des développeurs. Certains connaissent les fonctions les plus performantes, certains font plus attention à la lisibilité du code. Ce serait dommage de ne pas profiter de cette expérience collective.
+Que l'on soit développeur depuis 10, 20, 5 ou 2 ans, **on fait toujours des erreurs** et l'on en fera toujours. Et pas forcément que des erreurs d'inattention, cela peut être des erreurs d'architecture, de conception, de nommage... et plus on les détecte tôt, plus le coût pour les réparer, pour rembourser la dette sera faible. Et puis, aucun développeur ne peut penser toujours à tout, c'est impossible. De plus, chacun a des compétences différentes et complémentaires. Faire de la revue de code permet de mettre à profit les différences et la complémentarité des développeurs. Certains connaissent les fonctions les plus performantes, certains font plus attention à la lisibilité du code. Ce serait dommage de ne pas profiter de cette expérience collective.
 
 ![Perles à repasser](/static/img/revue/perler.jpg)
 
@@ -61,7 +61,7 @@ Une revue est là pour amener des commentaires, du débat. Je vois souvent des c
 
 Le point le plus important, c'est que **le commentaire doit concerner le fond et non la forme du code**. Arrêtez de faire des commentaires sur l'indentation, les sauts de lignes manquant en fin de fichiers, le code styling... C'est inutile et cela fait du *bruit* autour de la revue. Équipez-vous d'un outil qui vous fera ça de manière automatique et continue, bloquez les Pull Request tant que le code styling ne correspond pas à vos conventions, mais arrêtez de commenter pour ça... Et une fois que vous êtes équipé, s'il vous plait, ne paraphrasez pas le code sniffer... *"Scrutinizer n'est pas content parceque tu as oublié un espace"*... C'est inutile...
 
-Ce que je m'attends à avoir comme commentaires, c'est vraiment sur le fond ! Le pattern utilisé est-il le bon ? Est-il bien implémenté ? Est-ce qu'une classe a trop de responsabilités ? Manque-t-il des tests ? C'est avec des commentaires comme ça que je vais vraiment pourvoir améliorer le code.
+Ce que je m'attends à avoir comme commentaires, c'est vraiment sur le fond ! Le pattern utilisé est-il le bon ? Est-il bien implémenté ? Est-ce qu'une classe a trop de responsabilités ? Manque-t-il des tests ? C'est avec des commentaires comme ça que je vais vraiment pouvoir améliorer le code.
 
 Dans ce que j'appelle la *bienveillance*, il y a un point fondamental pour moi : il faut parler de manière *impeccable*. Les commentaires concernent le code et nom le développeur qui l'a écrit. Il n'y a aucun sens à attaquer directement le développeur. Ce que l'on juge, c'est le code et non le développeur.
 
@@ -69,7 +69,7 @@ Pour cela, j'essaie de ne jamais dire "Tu devrais", "Ton code pourrait"... Je pr
 
 ![Dessins](/static/img/revue/dessins.jpg)
 
-Je me souviens d'une histoire de la fille de ma voisine. Lorsqu'elle était en maternelle, sa maîtresse disait de tous ses dessins que c'étaient des *gribouillages*. Au début, sa mère arrivait tant bien que mal à la rassurer sur ses dessins, mais l'enfant avait été très touché, tellement que suite à un matraquage continuel de *"Tu ne sais pas dessiner, ce ne sont que des gribouillages"*, elle n'en a pas dessiné pendant plusieurs années. Tout ça parceque la maîtresse n'était pas bienveillante avec l'enfant et critiquait au lieu de proposer.
+Je me souviens d'une histoire de la fille de ma voisine. Lorsqu'elle était en maternelle, sa maîtresse disait de tous ses dessins que c'étaient des *gribouillages*. Au début, sa mère arrivait tant bien que mal à la rassurer sur ses dessins, mais l'enfant avait été très touché, tellement que suite à un matraquage continuel de *"Tu ne sais pas dessiner, ce ne sont que des gribouillages"*, elle n'en a pas dessiné pendant plusieurs années. Tout ça parce que la maîtresse n'était pas bienveillante avec l'enfant et critiquait au lieu de proposer.
 
 ## Proposer
 
@@ -124,7 +124,7 @@ Comme si un enfant venait avec une documentation, des procédures qui t'explique
 
 ## Parler, écouter
 
-Parfois, mon fils n'a pas envie d'aller à l'école. Est-ce qu'il est juste fainéant ou de mauvaise volonté ? Je ne pense pas. Quand cela arrive c'est souvent qu'il s'est passé quelque chose, alors je le questionne et surtout je l'écoute, **je l'écoute activement**. Je ne cherche pas à lui répondre tout de suite, j'essaie d'abord de comprendre. À cet âge, un enfant ne sait pas forcement exprimer clairement ses peurs, ses craintes, ses envies. C'est comme ça que j'ai découvert que Bruno à l'école lui disait tout le temps qu'il était *"un gros nul"*. J'ai tenté de le rassurer, de lui donner des alternatives, mais j'étais mal à l'aise avec la situation, j'en ai donc parlé à sa maîtresse avec qui on a trouvé une solution.
+Parfois, mon fils n'a pas envie d'aller à l'école. Est-ce qu'il est juste fainéant ou de mauvaise volonté ? Je ne pense pas. Quand cela arrive c'est souvent qu'il s'est passé quelque chose, alors je le questionne et surtout je l'écoute, **je l'écoute activement**. Je ne cherche pas à lui répondre tout de suite, j'essaie d'abord de comprendre. À cet âge, un enfant ne sait pas forcément exprimer clairement ses peurs, ses craintes, ses envies. C'est comme ça que j'ai découvert que Bruno à l'école lui disait tout le temps qu'il était *"un gros nul"*. J'ai tenté de le rassurer, de lui donner des alternatives, mais j'étais mal à l'aise avec la situation, j'en ai donc parlé à sa maîtresse avec qui on a trouvé une solution.
 
 Lire une Pull Request, ça demande un gros effort de compréhension, il faut une lecture active et pas seulement survoler le code à la recherche de *"quelque chose à dire"*. Parfois même, si cela ne nous concerne pas, ou si l'on ne se sent pas compétent, il vaut mieux ne rien dire. Parfois, je me sens mal à l'aise avec du code, je ne sais pas forcément l'expliquer, c'est plus un ressenti. Dans ce cas, je ne pollue pas les commentaires avec un message qui pourrait être mal interprété ou mal compris. Je choisis souvent d'aller directement parler avec l'auteur. Se parler évite les mal-entendus, les quiproquos et rend les échanges plus riches et productifs.
 
@@ -132,6 +132,6 @@ Lire une Pull Request, ça demande un gros effort de compréhension, il faut une
 
 Même si on essaie de faire des Pull Request parfaites, des commentaires bienveillants qui proposent une alternative justifiée, on fait toujours des erreurs, mais l'important c'est de faire de son mieux. J'ai toujours dit que la meilleure façon d'apprendre à un enfant à dire *"s'il te plait"* et *"merci"*, c'est de commencer par lui dire soi-même, par **montrer l'exemple**. Les enfants ont toujours tendance à copier les adultes, autant en profiter pour lui transmettre *passivement* ses valeurs. D'ailleurs, pourquoi il y a autant de jeux d'imitation ?
 
-Mais si un enfant copie beaucoup, il s'adapte aussi au contexte dans lequel il est. Quels parents n'ont jamais subi le *"Oh, mais avec moi il mange très bien"* ou encore *"Le coucher ? Super, une histoire et c'était réglé"*. Mon fils, chez ma mère, il dort énormément et est très calme, alors que chez ma belle-mère, c'est une pile électrique qui ne veut jamais se coucher et qui bouge en permanence. En fait, il s'est juste adapté à la personne qui le garde.
+Mais si un enfant copie beaucoup, il s'adapte aussi au contexte dans lequel il est. Quels parents n'ont jamais subi le *"Oh, mais avec moi il mange très bien"* ou encore *"Le coucher ? Super, une histoire et c'était réglé"* ? Mon fils, chez ma mère, il dort énormément et est très calme, alors que chez ma belle-mère, c'est une pile électrique qui ne veut jamais se coucher et qui bouge en permanence. En fait, il s'est juste adapté à la personne qui le garde.
 
 Créer un environnement bienveillant lors de la revue de code devrait contaminer progressivement le reste de l'équipe, par adaptation et par mimétisme, mais pour cela, il faut qu'il y ait des personnes qui montrent l'exemple et qui fassent de leur mieux. 
