@@ -11,19 +11,19 @@ Aujourd'hui je le pratique quotidiennement, toute modification du code est soumi
 
 ## Ce que j'attends d'une revue
 
-Pour moi, une revue de code à plusieurs objectifs qui sont à court, moyen et long terme, très bénéfiques.
+Pour moi, une revue de code a plusieurs objectifs qui sont à court, moyen et long terme, très bénéfiques.
 
-Que l'on soit développeur depuis 10, 20, 5 ou 2 ans, **on fait toujours des erreurs** et l'on en fera toujours. Et pas forcement que des erreurs d'inattention, cela peut être des erreurs d'architecture, de conception, de nommage... et plus on les détectent tôt, plus le coût pour les réparer, pour rembourser la dette sera faible. Et puis, aucun développeur ne peut penser toujours à tout, c'est impossible. De plus, chacun à des compétences différentes et complémentaires. Faire de la revue de code permet de mettre à profit les différences et la complémentarité des développeurs. Certains connaissent les fonctions les plus performantes, certains font plus attention à la lisibilité du code. Ce serait dommage de ne pas profiter de cette expérience collective.
+Que l'on soit développeur depuis 10, 20, 5 ou 2 ans, **on fait toujours des erreurs** et l'on en fera toujours. Et pas forcement que des erreurs d'inattention, cela peut être des erreurs d'architecture, de conception, de nommage... et plus on les détecte tôt, plus le coût pour les réparer, pour rembourser la dette sera faible. Et puis, aucun développeur ne peut penser toujours à tout, c'est impossible. De plus, chacun à des compétences différentes et complémentaires. Faire de la revue de code permet de mettre à profit les différences et la complémentarité des développeurs. Certains connaissent les fonctions les plus performantes, certains font plus attention à la lisibilité du code. Ce serait dommage de ne pas profiter de cette expérience collective.
 
 ![Perles à repasser](/static/img/revue/perler.jpg)
 
 J'ai un fils qui a 4 ans maintenant. Je fais souvent avec lui des perles à repasser. On choisit ensemble un modèle qu'il réalise ensuite seul en général. Souvent, il me demande si *"c'est bien comme ça papa ?"*, il est tellement concentré sur des détails que parfois il fait des erreurs d'inattention, c'est normal. C'est ce que l'on appelle trivialement *avoir la tête dans le guidon*. Mais un décalage d'une perle au début, c'est facile à détecter et à corriger, si on s'en rend compte à la fin, il faut parfois déplacer d'une case des dizaines de perles... et c'est long et pénible... une revue régulière peut l'éviter ! Et je pense que mon fils l'a compris.
 
-De plus, je fais souvent mes petits modèles à côté (c'est mon côté "vieu geek" traumatisé du pixel art :) ) et mon fils m'observe. Un jour, j'ai pris une pince à épiler pour attraper les perles. Depuis, quand on commence, mon fils en veut une aussi, il s'en sert pour aller plus vite et être plus précis. En revoyant mon code, il a appris.
+De plus, je fais souvent mes petits modèles à côté (c'est mon côté "vieux geek" traumatisé du pixel art :) ) et mon fils m'observe. Un jour, j'ai pris une pince à épiler pour attraper les perles. Depuis, quand on commence, mon fils en veut une aussi, il s'en sert pour aller plus vite et être plus précis. En revoyant mon code, il a appris.
 
 Et c'est vrai que l'on apprend énormément en lisant le code des autres et sans le savoir, on transmet, on partage des façons de faire en soumettant du code à la revue. 
 
-Lors d'une expérience précèdente, j'ai réécrit une partie du framework Symfony dans un framework maison en l'adaptant à celui-ci (je n'expliquerai pas pourquoi...). En lisant, copiant, paraphrasant, comprenant, réécrivant, j'ai énormément appris. De nouvelles façons de tester, des utilisations de design pattern, des architectures auxquelles je n'avais pas pensées. Même si le travail pouvait sembler inutile et pénible, il a en réalité été très riche en enseignement. Mais à cette époque, je ne faisais pas relire mon code, un problème de culture je pense, et si je faisais une erreur d'inattention, on me *pointait du doigt*.
+Lors d'une expérience précédente, j'ai réécrit une partie du framework Symfony dans un framework maison en l'adaptant à celui-ci (je n'expliquerai pas pourquoi...). En lisant, copiant, paraphrasant, comprenant, réécrivant, j'ai énormément appris. De nouvelles façons de tester, des utilisations de design pattern, des architectures auxquelles je n'avais pas pensées. Même si le travail pouvait sembler inutile et pénible, il a en réalité été très riche en enseignement. Mais à cette époque, je ne faisais pas relire mon code, un problème de culture je pense, et si je faisais une erreur d'inattention, on me *pointait du doigt*.
 
 Lorsque l'on pratique quotidiennement des revues en équipe, en plus d'avoir moins d'erreurs, on commence progressivement à **partager la responsabilité des erreurs**. Comment blâmer un développeur ayant introduit un bug si la moitié de l'équipe a validé ce code ?  
 Parce qu'il n'a pas écrit de test ? Pourquoi ne pas lui avoir dit avant de mettre un +1 ?  
@@ -51,7 +51,7 @@ Ce n'est pas forcément un défaut, mais il faut le prendre en compte lorsque l'
 
 Tout d'abord, j'y applique, comme à mes classes, le *Single Responsibility Principle*. Une Pull Request ne doit changer qu'une seule chose et avoir une et une seule raison d'exister. On ne met pas dans une Pull Request un bugfix et une nouvelle fonctionnalité. Jongler entre ces deux sujets lors de la relecture nous empêche d'être efficace. Le sujet et la description de la Pull Request n'est autre que l'explication de cette responsabilité.
 
-Ensuite, j'essaie toujours de faire des Pull Resquest les plus petites possible, pour cela, je diminue sa responsabilité au maximum. Je me souviendrai toujours d'une revue de code où je n'avais modifié qu'une seule ligne et sur laquelle j'ai eu 5 commentaires, alors qu'une Pull Request modifiant plus de 15 fichiers à côté avait reçu plusieurs +1 sans commentaires. Se concentrer sur peu de modifications permet d'être plus pertinent.
+Ensuite, j'essaie toujours de faire des Pull Requests les plus petites possible, pour cela, je diminue sa responsabilité au maximum. Je me souviendrai toujours d'une revue de code où je n'avais modifié qu'une seule ligne et sur laquelle j'ai eu 5 commentaires, alors qu'une Pull Request modifiant plus de 15 fichiers à côté avait reçu plusieurs +1 sans commentaires. Se concentrer sur peu de modifications permet d'être plus pertinent.
 
 La dernière règle que je m'impose c'est de toujours soumettre un code qui peut être mis en production. Si on ne peut pas le déployer, si on casse quelque-chose, si ce n'est pas fini, je ne le soumets pas.
 
@@ -61,25 +61,25 @@ Une revue est là pour amener des commentaires, du débat. Je vois souvent des c
 
 Le point le plus important, c'est que **le commentaire doit concerner le fond et non la forme du code**. Arrêtez de faire des commentaires sur l'indentation, les sauts de lignes manquant en fin de fichiers, le code styling... C'est inutile et cela fait du *bruit* autour de la revue. Équipez-vous d'un outil qui vous fera ça de manière automatique et continue, bloquez les Pull Request tant que le code styling ne correspond pas à vos conventions, mais arrêtez de commenter pour ça... Et une fois que vous êtes équipé, s'il vous plait, ne paraphrasez pas le code sniffer... *"Scrutinizer n'est pas content parceque tu as oublié un espace"*... C'est inutile...
 
-Ce que je m'attends à avoir comme commentaires, c'est vraiment sur le fond ! Le pattern utilisé est-il le bon ? Est-il bien implémenté ? Est-ce qu'une classe a trop de responsabilités ? Manque-t-il des tests ? C'est avec des commentaires comme ça que je vais vraiment pourvoir améliorer le code.
+Ce que je m'attends à avoir comme commentaires, c'est vraiment sur le fond ! Le pattern utilisé est-il le bon ? Est-il bien implémenté ? Est-ce qu'une classe a trop de responsabilités ? Manque-t-il des tests ? C'est avec des commentaires comme ça que je vais vraiment pouvoir améliorer le code.
 
-Dans ce que j'appelle la *bienveillance*, il y a un point fondamental pour moi : il faut parler de manière *impeccable*. Les commentaires concernent le code et nom le développeur qui l'a écrit. Il n'y a aucun sens à attaquer directement le développeur. Ce que l'on juge, c'est le code et non le développeur.
+Dans ce que j'appelle la *bienveillance*, il y a un point fondamental pour moi : il faut parler de manière *impeccable*. Les commentaires concernent le code et non le développeur qui l'a écrit. Il n'y a aucun sens à attaquer directement le développeur. Ce que l'on juge, c'est le code et non le développeur.
 
 Pour cela, j'essaie de ne jamais dire "Tu devrais", "Ton code pourrait"... Je préfère utiliser le *on*. Après tout, le code appartient à tout le monde. "On devrait peut-être refactoriser cette partie", "On peut optimiser cette condition comme ça"... Je pense montrer comme ça que c'est un travail d'équipe et pas un *dev-bashing*.
 
 ![Dessins](/static/img/revue/dessins.jpg)
 
-Je me souviens d'une histoire de la fille de ma voisine. Lorsqu'elle était en maternelle, sa maîtresse disait de tous ses dessins que c'étaient des *gribouillages*. Au début, sa mère arrivait tant bien que mal à la rassurer sur ses dessins, mais l'enfant avait été très touché, tellement que suite à un matraquage continuel de *"Tu ne sais pas dessiner, ce ne sont que des gribouillages"*, elle n'en a pas dessiné pendant plusieurs années. Tout ça parceque la maîtresse n'était pas bienveillante avec l'enfant et critiquait au lieu de proposer.
+Je me souviens d'une histoire de la fille de ma voisine. Lorsqu'elle était en maternelle, sa maîtresse disait de tous ses dessins que c'étaient des *gribouillages*. Au début, sa mère arrivait tant bien que mal à la rassurer sur ses dessins, mais l'enfant avait été très touché, tellement que suite à un matraquage continuel de *"Tu ne sais pas dessiner, ce ne sont que des gribouillages"*, elle n'en a pas dessiné pendant plusieurs années. Tout ça parce que la maîtresse n'était pas bienveillante avec l'enfant et critiquait au lieu de proposer.
 
 ## Proposer
 
-Je pense que chaque commentaire devrait proposer une alternative. Je dirais même que l'on devrait s'abstenir de faire un commentaire sur un code qui ne nous plait pas si on a pas une alternative à proposer.   
+Je pense que chaque commentaire devrait proposer une alternative. Je dirais même que l'on devrait s'abstenir de faire un commentaire sur un code qui ne nous plait pas si on n'a pas une alternative à proposer.   
 *"Ce nom de classe ne me plait pas"*, oui mais qu'est-ce que tu proposes ?  
 *"On pourrait optimiser cette boucle"*, oui mais comment ?  
 
 **Proposer plutôt que critiquer.** Cela marche superbement bien avec mon fils. 
 
-Une fois, on est sorti se balader après une grosse averse, il y avait des flaques partout. Bien sûr mon fils s'amuse à sauter dedans, ce qui me pose quelques problèmes en tant que père. Tous les *"Ne saute pas dans les flaques !"* ont été sans effet... Jusqu'à ce que je prenne le problème à l'envers, que je propose *"Viens, on essaie d'éviter les flaques !?"*, succès immédiat ! Depuis le jeu, c'est d'arriver à ne jamais mettre un pied dans l'eau, il est heureux et je n'ai pas besoin de lui répéter 50 fois. Et puis surtout, lorsqu'il évite bien les flaques, je le félicite. C'est pour moi tout le sens des *+1* sur une Pull Request. Ce sont des félicitations. Crier et punir un enfant à un impact négatif sur son moral et les effets sont limités dans le temps. Proposer une alternative et féliciter est davantage positif et durable.
+Une fois, on est sorti se balader après une grosse averse, il y avait des flaques partout. Bien sûr mon fils s'amuse à sauter dedans, ce qui me pose quelques problèmes en tant que père. Tous les *"Ne saute pas dans les flaques !"* ont été sans effet... Jusqu'à ce que je prenne le problème à l'envers, que je propose *"Viens, on essaie d'éviter les flaques !?"*, succès immédiat ! Depuis que le jeu, c'est d'arriver à ne jamais mettre un pied dans l'eau, il est heureux et je n'ai pas besoin de lui répéter 50 fois. Et puis surtout, lorsqu'il évite bien les flaques, je le félicite. C'est pour moi tout le sens des *+1* sur une Pull Request. Ce sont des félicitations. Crier et punir un enfant a un impact négatif sur son moral et les effets sont limités dans le temps. Proposer une alternative et féliciter est davantage positif et durable.
 
 ## Apprendre
 
@@ -108,7 +108,7 @@ Un soir, je lisais Dumbo à mon fils. Au moment de la scène où Dumbo doit saut
 
  - Papa, pourquoi l'immeuble est en feu ?
  - Parce que les clowns veulent que Dumbo saute
- - Mais pourquoi ils veulent que Dumdo il saute ?
+ - Mais pourquoi ils veulent que Dumbo il saute ?
  - Pour qu'il tombe dans la petite piscine en bas
  - Mais pourquoi ?
  - Et bien, pour le spectacle, pour faire rire les spectateurs
@@ -120,7 +120,7 @@ Les enfants demandent toujours pourquoi et ça, c'est une bonne pratique, cela d
 
 C'est comme dire qu'il faut faire d'une certaine façon parce que c'est écrit comme ça dans la documentation. C'est comme dire que dieu existe parce que c'est écrit dans la bible, ce n'est pas une justification valable et acceptable.
 
-Comme si un enfant venait avec une documentation, des procédures qui t'expliquent comment t'en occuper correctement. Ce sont les parents qui viennent te voir en te disant *donne lui une sucette, tu verras, avec ça il va dormir* ou *quand il suce son pouce c'est qu'il a faim*... En fait, chaque enfant est différent et les recettes que l'on utilise ne marche pas avec tous. Cela dépend de sa personnalité, du cadre de vie ou du framework, du domaine, de vos valeurs. Il n'y a pas de bonnes pratiques, seulement des bonnes raisons de le faire de cette façon.
+Comme si un enfant venait avec une documentation, des procédures qui t'expliquent comment t'en occuper correctement. Ce sont les parents qui viennent te voir en te disant *donne lui une sucette, tu verras, avec ça il va dormir* ou *quand il suce son pouce c'est qu'il a faim*... En fait, chaque enfant est différent et les recettes que l'on utilise ne marchent pas avec tous. Cela dépend de sa personnalité, du cadre de vie ou du framework, du domaine, de vos valeurs. Il n'y a pas de bonnes pratiques, seulement des bonnes raisons de le faire de cette façon.
 
 ## Parler, écouter
 
