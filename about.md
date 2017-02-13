@@ -8,6 +8,7 @@ permalink: /about/
     <h3>Principales comp&eacute;tences</h3>
     <p>D&eacute;veloppement Web : PHP, Symfony, Javascript, MySQL, Elasticsearch, HTML, CSS, Tests unitaires et fonctionnels</p>
     <p>Agilit&eacute;, Scrum, Kanban, Orateur</p>
+    <p>Enseignant vacataire à l'IUT de Montpellier</p>
 </section>
 
 <section id="experience">
@@ -81,6 +82,7 @@ permalink: /about/
         <li>Agile tour Montpellier 2015 : Conf&eacute;rence <i>Artisan d&eacute;veloppeur</i></li>
         <li>Afterwork DDD : <a href="https://www.youtube.com/watch?v=eJlG10m4hJc">DDD: Retour d'exp&eacute;rience</a></li>
         <li>Plusieurs talks en interne &agrave; 1001pharmacies</li>
+        <li>Enseignant vacataire à l'IUT de Montpellier</li>
     </ul>
     <h3>Formations professionnelles</h3>
     <ul>
