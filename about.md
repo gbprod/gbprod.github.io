@@ -18,7 +18,7 @@ permalink: /about/
         <span class="time">Depuis 2014</span>
     </h4>
     <ul>
-        <li>Conception et développement de la v3 du site (DDD, CQRS, Déploiement continue, Symfony, Elasticsearch, Toggle feature, Infrastructure immutable, RabbitMq...)</li>
+        <li>Conception et développement de la v3 du site (DDD, CQRS, déploiement continu, Symfony, Elasticsearch, Toggle feature, Infrastructure immutable, RabbitMq...)</li>
         <li>D&eacute;veloppement du site et d'outils backoffice</li>
         <li>Migration du site de CodeIgniter vers Symfony2</li>
         <li>Accompagnement et formation des d&eacute;veloppeurs</li>
