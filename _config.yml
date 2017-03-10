@@ -23,6 +23,9 @@ social:
     - icon: fa-slideshare
       link: "http://fr.slideshare.net/gbprod"
       text: "Slideshare"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/gilles-roustan-1a9631134/"
+      text: "LinkedIn"
     - icon: fa-envelope
       link: "mailto:contact@gb-prod.fr"
       text: "Email"
