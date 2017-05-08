@@ -4,5 +4,5 @@ install:
 	gem install jekyll-gist
 
 start:
-	jekyll serve --host $$IP --port $$PORT --baseurl ''
+	jekyll serve --future --host $$IP --port $$PORT --baseurl ''
 

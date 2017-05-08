@@ -78,6 +78,7 @@ permalink: /about/
     </h4>
     <h3>Orateur</h3>
     <ul>
+        <li>NewCrafts 2017 : Conf&eacute;rence <i>Software craftsman : from father to son</i></li>
         <li>Forum PHP 2016 : Conf&eacute;rence <i>De CodeIgniter à CQRS en passant par la case Capital</i></li>
         <li>Agile tour Montpellier 2015 : Conf&eacute;rence <i>Artisan d&eacute;veloppeur</i></li>
         <li>Afterwork DDD : <a href="https://www.youtube.com/watch?v=eJlG10m4hJc">DDD: Retour d'exp&eacute;rience</a></li>
@@ -90,23 +91,8 @@ permalink: /about/
         <li>Lean canvas, Scrum et autres... par <a href="https://twitter.com/langlois_s">St&eacute;phane Langlois</a></li>
         <li>Innovation games et Kanban par <a href="https://twitter.com/pablopernot">Pablo Pernot</a></li>
         <li>Anglais</li>
-        <li>Participation &agrave; de multiples conf&eacute;rences et ateliers :
-            <ul>
-                <li>JUG Montpellier</li>
-                <li>Agile tour Montpellier</li>
-                <li>PHPTour</li>
-                <li>Ap&eacute;ro PHP</li>
-                <li>Afterwork DDD</li>
-                <li>Blend web mix</li>
-                <li>Sudweb</li>
-                <li>Ap&eacute;ro Ruby</li>
-                <li>Startup weekend</li>
-                <li>Human Talks</li>
-                <li>Paris Web</li>
-                <li>Forum PHP</li>
-                <li>PHP Tour</li>
-            </ul>
-        </li>
+        <li>Participation &agrave; de multiples conf&eacute;rences et ateliers (AFUP Montpellier, JUG Montpellier, Agile tour Montpellier, PHPTour, Ap&eacute;ro PHP, Afterwork DDD, Blend web mix, Sudweb, Ap&eacute;ro Ruby, Startup weekend, Human Talks, Paris Web, Forum PHP, PHP Tour)</li>
+        <li>Organisateur AFUP Montpellier</li>
     </ul>
 </section>
 
