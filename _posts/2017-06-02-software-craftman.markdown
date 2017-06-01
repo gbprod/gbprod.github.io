@@ -11,7 +11,7 @@ description: >
 
 ## Foreword
 
-This article is a transcription of the talk that I gave during the New Crafts conferences of Paris on May 18, 2017. To follow better, I advise you to look in parallel at the [slides of the talk](http://en.slideshare.net/gbprod/artisan-developpeur-61978632).
+This article is a transcription of the talk that I gave during the New Crafts conferences of Paris on May 18, 2017. To follow better, I advise you to look in parallel at the [slides of the talk](https://speakerdeck.com/gbprod/gilles-craftman-from-father-to-son).
 
 ## About me
 
