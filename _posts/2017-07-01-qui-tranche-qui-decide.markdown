@@ -54,7 +54,7 @@ J'ai imaginé une architecture qui allait nous permettre de sortir quelque-chose
 
 > Je pense qu'il y a plein de problèmes dans ton archi... J'y crois pas trop, mais **prouve-moi que j'ai tort**.
 
-Il a argumenté avec les zones d'ombres qu'il voyait. Mais comment lui prouver que j'avais raison ? (ou du moins pas trop tord). En faisant, en essayant.
+Il a argumenté avec les zones d'ombres qu'il voyait. Mais comment lui prouver que j'avais raison ? (ou du moins pas trop tort). En faisant, en essayant.
 
 En demandant à Thomas (et au reste de l'équipe), ce qu'il pensait de ma décision, j'ai fait ce que l'on appelle un [advice process](http://www.reinventingorganizationswiki.com/Decision_Making) et Thomas m'a remonté, ce que l'on appelle en holacratie une *tension*. Ce que j'ai appris, c'est que 
 
@@ -131,7 +131,7 @@ Est-ce que je me serais lancé dans la réécriture du site si j'avais au-dessus
 
 Comme quand j'essaie de comprendre les émotions de mon fils... Parfois, je me trompe. Est-ce que c'est grave ? Non.
 
- - J'ai l'impression que tu es en énervé ?
+ - J'ai l'impression que tu es énervé ?
  - Non, je suis pas énervé, je suis en colère ! Parce que je n'arrive pas à finir ce puzzle.
 
 Il me corrige, petit à petit, je le comprends mieux, déchiffre mieux ce qu'il ressent et je réagis mieux. L'important n'est pas de commettre une erreur, mais d'en tirer les conséquences, une leçon.
