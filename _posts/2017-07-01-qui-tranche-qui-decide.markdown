@@ -30,7 +30,7 @@ Pour moi, le problème réside dans le **pouvoir** de prendre les décisions. Je
 ## Un vidéo-projecteur
 
 Une histoire pour moi représente parfaitement l'évolution de l'équipe. L'histoire du vidéo-projecteur.
-Lors de mon arrivée, nous avions un vieu vidéo-projecteur de mauvaise qualité, tout le monde s'en plaignait. Lorsque l'équipe technique a commencée à faire des revues régulières de son travail, les couleurs et la lisibilité ne rendait pas vraiment compte de la qualité visuelle du travail. De plus, lors de l'accueil de meetup, la mauvaise qualité du vidéo-projecteur était systématiquement remontée par les participants.
+Lors de mon arrivée, nous avions un vieux vidéo-projecteur de mauvaise qualité, tout le monde s'en plaignait. Lorsque l'équipe technique a commencée à faire des revues régulières de son travail, les couleurs et la lisibilité ne rendait pas vraiment compte de la qualité visuelle du travail. De plus, lors de l'accueil de meetup, la mauvaise qualité du vidéo-projecteur était systématiquement remontée par les participants.
 
 Il n'y avait pas de hiérarchie, donc *personne* ne pouvait prendre la décision d'acheter un vidéo-projecteur, on a donc lancé un sondage malgré que l'on soit tous *persuadé* de l'utilité.
 
@@ -42,7 +42,7 @@ Si un mode *top-down* est parfaitement injuste et ne prend jamais en compte l'av
 
 ## Faire
 
-Face à ces personnes toxiques qui trouvent toujours une bonne raison de ne pas commencer un projet, d'autres on envie de [faire](https://methylbro.fr/aventure/faire-cest-bon-mangez-en/). Ces personnes-là, plus que celle qui posent 500 questions avant de commencer, poussent et aident la décision. On a vraiment eu de la chance d'avoir dans cette équipe ce type de profil. Ces faiseurs lancent parfois des chantiers que l'on croyait impossible. Cassent des croyances.
+Face à ces personnes toxiques qui trouvent toujours une bonne raison de ne pas commencer un projet, d'autres on envie de [faire](https://methylbro.fr/aventure/faire-cest-bon-mangez-en/). Ces personnes-là, plus que celles qui posent 500 questions avant de commencer, poussent et aident la décision. On a vraiment eu de la chance d'avoir dans cette équipe ce type de profil. Ces faiseurs lancent parfois des chantiers que l'on croyait impossible. Cassent des croyances.
 
 > Parfois, il faut juste faire. L'ennemi de l'équipe, c'est l'immobilisme
 
