@@ -24,7 +24,7 @@ Personne.
 
 > *Ce n'est pas possible que l'équipe avance si personne n'a le pourvoir de prendre des décisions*
 
-Je me suis vraiment rendu compte à ce moment que personne n'était désigner pour décider, pour trancher. Mais, contrairement à ce que l'on pourrait penser, cela ne nous empêchait pas de prendre de décisions, bien au contraire. 
+Je me suis vraiment rendu compte à ce moment que personne n'était désigné pour décider, pour trancher. Mais, contrairement à ce que l'on pourrait penser, cela ne nous empêchait pas de prendre de décisions, bien au contraire. 
 Pour moi, le problème réside dans le **pouvoir** de prendre les décisions. Je préfère avoir la **possibilité** de décider que la **responsabilité** de décider.
 
 ## Un vidéo-projecteur
@@ -109,11 +109,11 @@ Constater l'état des choses est souvent plus efficace qu'ordonner : "Le repas e
 
 Les gens changent, parfois doucement parfois radicalement. C'est ce qui m'est arrivé avec ma femme.
 
-[Lors de sa maladie](http://gb-prod.fr/2016/07/20/j-ai-code-la-nuit-de-noel.html), ma femme a subie des lésions cérébrales qui ont radicalement changé son comportement, ses goûts, ses valeurs. Souvent un choix est une question de perspective, où cela nous amène, qu'est-ce que ça nous apporte ?
+[Lors de sa maladie](http://gb-prod.fr/2016/07/20/j-ai-code-la-nuit-de-noel.html), ma femme a subi des lésions cérébrales qui ont radicalement changé son comportement, ses goûts, ses valeurs. Souvent un choix est une question de perspective, où cela nous amène, qu'est-ce que ça nous apporte ?
 
 Comme mon choix de quitter 1001pharmacies, le choix de mon divorce réside dans un conflit de valeurs et l'objectif était de sortir par le haut en regardant les perspectives et la valeur de ce choix plus que les risques de ce choix.
 
-Les valeurs de ma femme avaient changé. Avoir des valeurs communes avec ma compagne est pour moi l'un des piliers d'une relation. Ce pilier s'est effondré, nous ne sommes plus allignés dans notre vision de la vie, de l'éducation, des priorités. C'était voué à l'échec.
+Les valeurs de ma femme avaient changé. Avoir des valeurs communes avec ma compagne est pour moi l'un des piliers d'une relation. Ce pilier s'est effondré, nous ne sommes plus alignés dans notre vision de la vie, de l'éducation, des priorités. C'était voué à l'échec.
 
 Lors du développement de la v3, on s'est beaucoup basé sur nos valeurs pour concevoir les fonctionnalités, le design et l'ergonomie. Chaque choix était confronté à un questionnement sur l'adéquation avec nos valeurs. Si parfois c'était évident, souvent cela nous a amené à nous poser des questions et à sortir des schémas classiques du site e-commerce. Comme par exemple le fait que le site soit accessible à tous et facilement, dans une envie d'inclusivité, on ne souhaitait pas avoir d'authentification ou de connexion par mot de passe qui rend complexe une commande et exclu ceux qui ont du mal à se servir d'une boite e-mail.
 
@@ -151,7 +151,7 @@ Choisir un outil, un hébergeur, un collaborateur est lourd de conséquences. Im
 
 C'est pour cela que j'aime les outils [SAAS](https://fr.wikipedia.org/wiki/Logiciel_en_tant_que_service), car on peut se tromper. 
 
-Cela fait perdre du temps ? Non, je ne pense pas. C'est du temps investit en connaissance. Notre métier, le développement, ce n'est pas un métier de production, mais un métier d'apprentissage. On apprend un autre métier, de nouvelles technologies, de nouveaux langages, de nouvelles façons de travailler ensemble. On expérimente et nos échecs nous servent à progresser. Un développeur qui n'a pas connu d'échecs est un développeur qui sort de l'école.
+Cela fait perdre du temps ? Non, je ne pense pas. C'est du temps investi en connaissance. Notre métier, le développement, ce n'est pas un métier de production, mais un métier d'apprentissage. On apprend un autre métier, de nouvelles technologies, de nouveaux langages, de nouvelles façons de travailler ensemble. On expérimente et nos échecs nous servent à progresser. Un développeur qui n'a pas connu d'échecs est un développeur qui sort de l'école.
 
 D'ailleurs, le Test-driven developement n'est-il pas une méthode de développement piloté par l'échec ?
 
