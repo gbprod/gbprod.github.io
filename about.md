@@ -98,6 +98,7 @@ permalink: /about/
     </ul>
     <h3>Formations professionnelles</h3>
     <ul>
+        <li>React par Jolicode</li>
         <li>Elasticsearch par <a href="https://twitter.com/damienalexandre">Damien Alexandre</a></li>
         <li>Lean canvas, Scrum et autres... par <a href="https://twitter.com/langlois_s">St&eacute;phane Langlois</a></li>
         <li>Innovation games et Kanban par <a href="https://twitter.com/pablopernot">Pablo Pernot</a></li>
