@@ -14,8 +14,20 @@ permalink: /about/
 <section id="experience">
     <h3>Exp&eacute;riences</h3>
     <h4>
-        Lead d&eacute;veloppeur &agrave; <a href="http://www.1001pharmacies.com">1001pharmacies</a> (Montpellier)<br />
-        <span class="time">Depuis 2014</span>
+        D&eacute;veloppeur chez <a href="http://www.mediapart.fr">Mediapart</a><br />
+        <span class="time">Depuis 2017</span>
+    </h4>
+    <ul>
+        <li>D&eacute;veloppement d'outils backoffice de gestion</li>
+        <li>Rénovation du tunnel d'abonnement</li>
+    </ul>
+    <p>
+        Contexte technique: PHP 5/7, Symfony, React, Elasticsearch, RabbitMq,, Tests unitaires et fonctionnels (PHPUnit), MariaDB, Docker, Git, Attlassian
+    </p>
+    
+    <h4>
+        Lead d&eacute;veloppeur chez <a href="http://www.1001pharmacies.com">1001pharmacies</a> (Montpellier)<br />
+        <span class="time">De 2014 à 2017</span>
     </h4>
     <ul>
         <li>Conception et développement de la v3 du site (DDD, CQRS, déploiement continu, Symfony, Elasticsearch, Toggle feature, Infrastructure immutable, RabbitMq...)</li>
